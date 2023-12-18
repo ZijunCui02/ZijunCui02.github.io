@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zijun Cui"
 title_separator          : #"-"
-name                     : #&name "Zijun Cui"
+name                     : &name ""
 description              : &description "A senior in ECE/EE"
 url                      : https://ZijunCui02.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
