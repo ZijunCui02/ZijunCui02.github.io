@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zijun Cui"
+title                    : ""
 title_separator          : #"-"
-name                     : &name ""
+name                     : &name "Zijun Cui"
 description              : &description "A senior in ECE/EE"
 url                      : https://ZijunCui02.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
