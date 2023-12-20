@@ -2,8 +2,8 @@
 title: "Audio Amplifier Design"
 collection: teaching
 type: "Analog Electronics Research Project"
-permalink: /teaching/2014-spring-teaching-1
-venue: "Zhejiang University, Hangzhou"
+permalink: /teaching/2022-05
+venue: "Zhejiang University, College of Electrical Engineering"
 date: 2022-05
 location: "Hangzhou, China"
 ---
