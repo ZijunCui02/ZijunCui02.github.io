@@ -3,13 +3,13 @@ title: "Influence of Split Teeth on the Performance of Linear Permanent Magnet V
 collection: publications
 permalink: /pub1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 28-30 June 2023
+venue: 'International Symposium on Linear Drivers for Industry Applications (LDIA)'
+paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://doi.org/10.1109/LDIA59564.2023.10297520)'
+citation: 'H. Wang, Y. Li, **Z. Cui** and Q. Lu, "Influence of Split Teeth on the Performance of Linear Permanent Magnet Vernier Motor," 2023 14th International Symposium on Linear Drivers for Industry Applications (LDIA), Hannover, Germany, 2023, pp. 1-5, doi: 10.1109/LDIA59564.2023.10297520.; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+H. Wang, Y. Li, Z. Cui and Q. Lu, "Influence of Split Teeth on the Performance of Linear Permanent Magnet Vernier Motor," 2023 14th International Symposium on Linear Drivers for Industry Applications (LDIA), Hannover, Germany, 2023, pp. 1-5, doi: 10.1109/LDIA59564.2023.10297520.. 
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: H. Wang, Y. Li, **Z. Cui** and Q. Lu, "Influence of Split Teeth on the Performance of Linear Permanent Magnet Vernier Motor," 2023 14th International Symposium on Linear Drivers for Industry Applications (LDIA), Hannover, Germany, 2023, pp. 1-5, doi: 10.1109/LDIA59564.2023.10297520." <i>Journal 1</i>. 1(1).
