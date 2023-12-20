@@ -1,15 +1,14 @@
 ---
 title: "Influence of Split Teeth on the Performance of Linear Permanent Magnet Vernier Motor"
 collection: publications
-permalink: /pub1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2023-6-28-paper-title-number-1
+excerpt: 'In recent years, permanent magnet Vernier motors are popular research objects in electrical machine field. Linear permanent magnet Vernier motor (LPMVM) is a new type of special motor. It works according to the magnetic field modulation mechanism, which can use its own vernier effect to generate greater thrust at low speed. Based on its working principle, three motors are built up and compared in this paper by finite element analysis, while they have different split tooth structures, viz. a non-split-tooth topology, a two-split-teeth one, and a three-split-teeth one. The electromagnetic performances under no-load and on-load conditions are analyzed, focusing on the influence of different structures on thrust and power factor. Finally, it is concluded that the thrust ripple of the motor is weakened by the use of split-teeth, but at the same time, the average thrust of the motor is also reduced. Moreover, the increase of the number of split teeth will reduce the power factor of the motor.'
 date: 28-30 June 2023
 venue: 'International Symposium on Linear Drivers for Industry Applications (LDIA)'
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://doi.org/10.1109/LDIA59564.2023.10297520)'
-citation: 'H. Wang, Y. Li, **Z. Cui** and Q. Lu, "Influence of Split Teeth on the Performance of Linear Permanent Magnet Vernier Motor," 2023 14th International Symposium on Linear Drivers for Industry Applications (LDIA), Hannover, Germany, 2023, pp. 1-5, doi: 10.1109/LDIA59564.2023.10297520.; <i>Journal 1</i>. 1(1).'
----
-H. Wang, Y. Li, Z. Cui and Q. Lu, "Influence of Split Teeth on the Performance of Linear Permanent Magnet Vernier Motor," 2023 14th International Symposium on Linear Drivers for Industry Applications (LDIA), Hannover, Germany, 2023, pp. 1-5, doi: 10.1109/LDIA59564.2023.10297520.. 
+paperurl: 'https://doi.org/10.1109/LDIA59564.2023.10297520'
 
+---
+In recent years, permanent magnet Vernier motors are popular research objects in electrical machine field. Linear permanent magnet Vernier motor (LPMVM) is a new type of special motor. It works according to the magnetic field modulation mechanism, which can use its own vernier effect to generate greater thrust at low speed. Based on its working principle, three motors are built up and compared in this paper by finite element analysis, while they have different split tooth structures, viz. a non-split-tooth topology, a two-split-teeth one, and a three-split-teeth one. The electromagnetic performances under no-load and on-load conditions are analyzed, focusing on the influence of different structures on thrust and power factor. Finally, it is concluded that the thrust ripple of the motor is weakened by the use of split-teeth, but at the same time, the average thrust of the motor is also reduced. Moreover, the increase of the number of split teeth will reduce the power factor of the motor.
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: H. Wang, Y. Li, **Z. Cui** and Q. Lu, "Influence of Split Teeth on the Performance of Linear Permanent Magnet Vernier Motor," 2023 14th International Symposium on Linear Drivers for Industry Applications (LDIA), Hannover, Germany, 2023, pp. 1-5, doi: 10.1109/LDIA59564.2023.10297520." <i>Journal 1</i>. 1(1).
+Recommended citation: H. Wang, Y. Li, **Z. Cui** and Q. Lu, "Influence of Split Teeth on the Performance of Linear Permanent Magnet Vernier Motor," 2023 14th International Symposium on Linear Drivers for Industry Applications (LDIA), Hannover, Germany, 2023, pp. 1-5, doi: 10.1109/LDIA59564.2023.10297520."
