@@ -8,6 +8,8 @@ date: 2022-04-25
 location: "Hangzhou, China"
 ---
 
+Description:
+------
 Designed an audio amplifier including the circuit topology, PCB layout, and device packaging;  
 
 Tested the amplification effectiveness of the system under different conditions, ensuring robust functionality;  
