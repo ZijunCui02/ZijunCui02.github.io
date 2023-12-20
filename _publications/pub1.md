@@ -1,7 +1,7 @@
 ---
 title: "Influence of Split Teeth on the Performance of Linear Permanent Magnet Vernier Motor"
 collection: publications
-permalink: /publication/2023-6-28-paper-title-number-1
+permalink: /publication/2023-6-28-paper-1
 excerpt: 'Performance Improvement of a Novel Linear Permanent Magnet Motor (LPMM).'
 date: 28-30 June 2023
 venue: 'International Symposium on Linear Drivers for Industry Applications (LDIA)'
