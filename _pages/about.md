@@ -1,8 +1,7 @@
-Hi, I am 
-======
+
 ---
 permalink: /
-title: "Zijun Cui"
+title: "Hi, I am Zijun Cui"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
