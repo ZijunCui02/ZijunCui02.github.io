@@ -1,6 +1,6 @@
 ---
 title: "Audio Amplifier Design"
-collection: teaching
+collection: course projects
 type: "Analog Electronics Research Project"
 permalink: /teaching/2022-05
 venue: "Zhejiang University, College of Electrical Engineering"
