@@ -13,8 +13,8 @@ redirect_from:
 
 Education
 ======
-* B.E. in Electrical Engineering and Automation, Zhejiang University, 2024(expected)
-* Jicheng No.1 High School, 2020
+* B.E. in Electrical Engineering and Automation, Zhejiang University, june, 2024 (expected)
+* Jincheng No.1 High School, july, 2020
 
 Work experience
 ======
