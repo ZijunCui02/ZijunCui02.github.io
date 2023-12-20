@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Signal Generator & FPGA-based Digital Frequency Meter"
 collection: teaching
-type: "Undergraduate course"
+type: "Electrical Engineering Intern Project"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
-date: 2014-02-01
-location: "City, Country"
+date: 2022-06-15
+location: "Hangzhou, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
