@@ -1,6 +1,6 @@
 ---
 title: "Signal Generator & FPGA-based Digital Frequency Meter"
-collection: teaching
+collection: course projects
 type: "Electrical Engineering Intern Project"
 permalink: /teaching/2022-06
 venue: "Zhejiang University, College of Electrical Engineering"
