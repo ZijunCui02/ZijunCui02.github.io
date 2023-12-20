@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[CV](http://academicpages.github.io/files/paper1.pdf)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
