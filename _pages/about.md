@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /Homepage
 title: " Hi, I am Zijun Cui"
 excerpt: "About me"
 author_profile: true
