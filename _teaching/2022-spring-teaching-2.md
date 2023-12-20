@@ -8,7 +8,12 @@ date: 2022-06-15
 location: "Hangzhou, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Description:
+------
+1. Designed a FPGA-based digital frequency meter, simulated it in Quartus, and validated the functionality with signal generator;
+1. Optimized the circuit topology and circuit parameters through simulations in OrCAD;
+1. Designed PCB layout and prototyped versatile signal generator; performed comprehensive tests for performance and robustness.
+
 
 Heading 1
 ======
