@@ -12,8 +12,8 @@ main:
   - title: "Course Projects"
     url: /course projects/    
     
- # - title: "Portfolio"
-   # url: /portfolio/
+  - title: "Activities & Highlight"
+    url: /portfolio/
         
  #- title: "Blog Posts"
    # url: /year-archive/
