@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zijun Cui"
+title                    : "Homepage"
 title_separator          : #"-"
 name                     : &name "Zijun Cui"
 description              : &description "A senior in ECE/EE"
