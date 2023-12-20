@@ -9,6 +9,7 @@ location: "Hangzhou, China"
 ---
 
 Description:
+------
 1. Programmed an TMS3202812 micro-controller and an eight-segment display to realize a digital clock;
 1. Developed key control, input, and function-switching capabilities for the digital clock;
 1. Implemented multiple functions including the ADC-based voltage transformation, binary display, marquee, etc.
