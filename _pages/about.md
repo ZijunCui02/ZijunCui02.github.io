@@ -7,6 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+
+
+![nuronmancer](/images/nuromancer.png){: .align-right width="300px"}
 I am a senior in Electrical and Computer Engineering (ECE) at Zhejiang University.
 
 My academic journey in ECE has been driven by a profound interest in power electronics and electric machines.
