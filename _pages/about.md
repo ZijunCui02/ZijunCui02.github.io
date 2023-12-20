@@ -83,7 +83,7 @@ Awards
  1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
  1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username 
 
-Extracaracular Activities
+Extracurricular Activities
 ======
 
 Student Predisent at Class of Electrical Engineering and Automation
