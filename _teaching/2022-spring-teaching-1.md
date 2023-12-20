@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Audio Amplifier Design"
 collection: teaching
 type: "Analog Electronics Research Project"
 permalink: /teaching/2022-spring-teaching-1
