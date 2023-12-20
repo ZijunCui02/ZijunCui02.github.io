@@ -17,4 +17,4 @@ In recent years, permanent magnet Vernier motors are popular research objects in
 
 Recommended citation
 ------
-H. Wang, Y. Li, **Z. Cui** and Q. Lu, "Influence of Split Teeth on the Performance of Linear Permanent Magnet Vernier Motor," 2023 14th International Symposium on Linear Drivers for Industry Applications (LDIA), Hannover, Germany, 2023, pp. 1-5, doi: 10.1109/LDIA59564.2023.10297520."
+H. Wang, Y. Li, Z. Cui and Q. Lu, "Influence of Split Teeth on the Performance of Linear Permanent Magnet Vernier Motor," 2023 14th International Symposium on Linear Drivers for Industry Applications (LDIA), Hannover, Germany, 2023, pp. 1-5, doi: 10.1109/LDIA59564.2023.10297520."
