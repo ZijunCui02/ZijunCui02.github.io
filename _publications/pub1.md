@@ -2,11 +2,11 @@
 title: "Influence of Split Teeth on the Performance of Linear Permanent Magnet Vernier Motor"
 collection: publications
 permalink: /publication/2023-6-28-paper-title-number-1
-excerpt: 'In recent years, permanent magnet Vernier motors are popular research objects in electrical machine field. Linear permanent magnet Vernier motor (LPMVM) is a new type of special motor. It works according to the magnetic field modulation mechanism, which can use its own vernier effect to generate greater thrust at low speed. Based on its working principle, three motors are built up and compared in this paper by finite element analysis, while they have different split tooth structures, viz. a non-split-tooth topology, a two-split-teeth one, and a three-split-teeth one. The electromagnetic performances under no-load and on-load conditions are analyzed, focusing on the influence of different structures on thrust and power factor. Finally, it is concluded that the thrust ripple of the motor is weakened by the use of split-teeth, but at the same time, the average thrust of the motor is also reduced. Moreover, the increase of the number of split teeth will reduce the power factor of the motor.'
+excerpt: 'Performance Improvement of a Novel Linear Permanent Magnet Motor (LPMM).'
 date: 28-30 June 2023
 venue: 'International Symposium on Linear Drivers for Industry Applications (LDIA)'
 paperurl: 'https://doi.org/10.1109/LDIA59564.2023.10297520'
-
+citation: 'H. Wang, Y. Li, Z. Cui et. al. (2023) "Influence of Split Teeth on the Performance of Linear Permanent Magnet Vernier Motor; <i>LDIA</i>.'
 ---
 In recent years, permanent magnet Vernier motors are popular research objects in electrical machine field. Linear permanent magnet Vernier motor (LPMVM) is a new type of special motor. It works according to the magnetic field modulation mechanism, which can use its own vernier effect to generate greater thrust at low speed. Based on its working principle, three motors are built up and compared in this paper by finite element analysis, while they have different split tooth structures, viz. a non-split-tooth topology, a two-split-teeth one, and a three-split-teeth one. The electromagnetic performances under no-load and on-load conditions are analyzed, focusing on the influence of different structures on thrust and power factor. Finally, it is concluded that the thrust ripple of the motor is weakened by the use of split-teeth, but at the same time, the average thrust of the motor is also reduced. Moreover, the increase of the number of split teeth will reduce the power factor of the motor.
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
