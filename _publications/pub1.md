@@ -5,6 +5,7 @@ permalink: /publication/2023-6-28-paper-1
 excerpt: 'Performance Improvement of a Novel Linear Permanent Magnet Motor (LPMM).'
 date: 28-30 June 2023
 venue: 'International Symposium on Linear Drivers for Industry Applications (LDIA)'
+citation: 'H. Wang, Y. Li, Z. Cui et. al. (2023) "Influence of Split Teeth on the Performance of Linear Permanent Magnet Vernier Motor; <i>LDIA</i>.'
 paperurl: 'https://doi.org/10.1109/LDIA59564.2023.10297520'
 ---
 
