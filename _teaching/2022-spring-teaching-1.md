@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
+type: "Analog Electronics Research Project"
 permalink: /teaching/2022-spring-teaching-1
 venue: "Zhejiang University, Department"
 date: 2022-01-01
