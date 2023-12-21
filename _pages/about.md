@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to My Academic Portfolio!"
+title: "Welcome to My Academic Portfolio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,7 +14,7 @@ As a passionate senior at Zhejiang University, I am majoring in Electrical and C
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 <!-- code_chunk_output -->
-* [Research Experience](#research-experience)
+* [Research Experience](#research-projects)
 * [Course Projects](#course-projects)
 * [Internship Experiences](#internship-experiences)
 * [Awards & Honors](#awards--honors)
@@ -22,13 +22,15 @@ As a passionate senior at Zhejiang University, I am majoring in Electrical and C
 * [Join Me on My Journey](#join-me-on-my-journey)
 * [Contact Me](#contact-me)
 <!-- code_chunk_output -->
+  
 
----
+- - -  
+
 Research Projects
-======
+===  
 
-At Micro and Special Motor Research Institute
----
+##At Micro and Special Motor Research Institute
+
 >##I. Influence of Split Teeth on the Performance of Linear Permanent Magnet Vernier Motor
 [research website](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -41,74 +43,84 @@ At Micro and Special Motor Research Institute
 
 
 
-At Power Electronics and Power Conversion Research Institute
-------
+##At Power Electronics and Power Conversion Research Institute
+
 >##Compensation Algorithm based Current Transformer with High Accuracy
-[research website](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+[research website](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.  
 
----
+- - -  
+
 Course Projects
-======
+===  
 
-Multi-function Digital Clock Based on Microcomputer
-------
+>##Multi-function Digital Clock Based on Microcomputer
+
 
 [research website](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 
-Signal Generator & FPGA-based Digital Frequency Meter
-------
+>##Signal Generator & FPGA-based Digital Frequency Meter
+
 [research website](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 
-Audio Amplifier Design 
-------
-[research website](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
----
+>##Audio Amplifier Design 
 
+[research website](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.  
+
+- - -
 
 Internship Experiences
-======
+===  
 
  >Shanghai Sany Electronic Technology Co., Ltd | R&D Engineer
  >------
  1. Played a key role in developing a mining protection system, enhancing anomaly detection and enabling instant alarm triggering in coal mining infrastructure. 
  1. Participated in the product function design, competitor analysis, and product framework development;
- 1. Led the design and prototype of the power management circuit, carefully selected the components to ensure robustness in the humid environment, tested the prototyped circuit, and validated the circuit functionality and reliability.[this repository](https://github.com/academicpages/academicpages.github.io) 
+ 1. Led the design and prototype of the power management circuit, carefully selected the components to ensure robustness in the humid environment, tested the prototyped circuit, and validated the circuit functionality and reliability.[this repository](https://github.com/academicpages/academicpages.github.io)  
+ 
 - - -
-Awards & Honors
-======
 
+Awards & Honors  
+===
  - Excellent Student Cadre of Zhejiang University (Top 3%) Jun. 2021
  - Excellent Student Leadership Award of Zhejiang University (Top 3%) Oct. 2021
- -  Student Leadership Award of Zhejiang University (Top 5%) Jun. 2022
-- - - 
+ -  Student Leadership Award of Zhejiang University (Top 5%) Jun. 2022  
+
+- - -   
 
 Leadership & Activities
-======
+===  
 
-Student Predisent at Class of Electrical Engineering and Automation
-------
+##Student Predisent at Class of Electrical Engineering and Automation
+
 Monitor is s!
 
-Musical *Dear Evan Hansen* at Lingyun Musical Club, *2021*
-------
+##Musical *Dear Evan Hansen* at Lingyun Musical Club, *2021*
+
 DEH yyds!
 
-Musical *GALA* at Lingyun Musical Club, *2022*
-------
-GALA is s!
-- - - 
+##Musical *GALA* at Lingyun Musical Club, *2022*
+
+GALA is s!  
+
+- - -   
+
 Join Me on My Journey
-===
+===  
 
 As I look forward to starting my graduate studies, I invite you to explore this website to learn more about my projects, research interests, and academic achievements. Your insights, advice, and opportunities for collaboration are always welcome.
 
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). 
-- - - 
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/).  
+
+- - -   
+
 Contact Me:
-===
+===  
+
+
 ***Email:*** *[zijun@zju.edu.cn](mailto:zijun@zju.edu.cn/)*
 &emsp;&emsp;&emsp; *[cuizijun02@163.com](mailto:cuizijun02@163.com/)*
-***Phone:*** *(+86) 17300989068*
+***Phone:*** *(+86) 17300989068*  
+
 - - - 
