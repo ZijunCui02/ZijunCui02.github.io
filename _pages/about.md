@@ -9,8 +9,8 @@ redirect_from:
 ---
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 <!-- code_chunk_output -->
-* [Research Experience](#Research Experience-1)
-    *[Research Project 1](#Research Project-11)
+* [Research Experience](#Chapter-1)
+   * [Research Project 1](#Section-11)
 <!-- code_chunk_output -->
 
 
