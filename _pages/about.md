@@ -7,7 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+<!-- code_chunk_output -->
+* [Research Experience](#Research Experience-1)
+    *[Research Project 1](#Research Project-11)
+<!-- code_chunk_output -->
 
 
 ![nuronmancer](/images/Brain.png){: .align-right width="220px"}
