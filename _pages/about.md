@@ -14,13 +14,13 @@ redirect_from:
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 <!-- code_chunk_output -->
-* [<b><font size = 2>Research Experience</font>](#research-projects)
-* [<font size = 2>Course Projects</font>](#course-projects)
-* [<font size = 2>Internship Experiences</font>](#internship-experiences)
-* [<font size = 2>Awards & Honors</font>](#awards--honors)
-* [<font size = 2>Leadership & Activities</font>](#leadership--activities)
-* [<font size = 2>Join Me on My Journey</font>](#join-me-on-my-journey)
-* [<font size = 2>Contact Me</font></b>](#contact-me)
+* [<b>Research Experience</b>](#research-projects)
+* [<b>Course Projects</b>](#course-projects)
+* [<b>Internship Experiences</b>](#internship-experiences)
+* [<b>Awards & Honors</b>](#awards--honors)
+* [<b>Leadership & Activities</b>](#leadership--activities)
+* [<b>Join Me on My Journey</b>](#join-me-on-my-journey)
+* [<b>Contact Me</font></b>](#contact-me)
 <!-- code_chunk_output -->
   
 
