@@ -13,7 +13,7 @@ location: "Hangzhou, China"
 
 
 
-*<font size=4>Advisor:</font> [<font size=4>Xidong Xu</font>](http://ee.zju.edu.cn/2020/0609/c51919a2150927/page.htm)*<font size=4>, Associate Professor, College of Electrical Engineering, Zhejiang University</font>*  
+*<font size=4>Advisor:</font> [<font size=4>Xidong Xu</font>](http://ee.zju.edu.cn/2020/0609/c51919a2150927/page.htm)<font size=4>, Associate Professor, College of Electrical Engineering, Zhejiang University</font>*  
 
 - - -  
 
