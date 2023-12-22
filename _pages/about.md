@@ -20,7 +20,7 @@ redirect_from:
 * [<b>Awards & Honors</b>](#awards--honors)
 * [<b>Leadership & Activities</b>](#leadership--activities)
 * [<b>Join Me on My Journey</b>](#join-me-on-my-journey)
-* [<b>Contact Me</font></b>](#contact-me)
+* [<b>Contact Me</b>](#contact-me)
 <!-- code_chunk_output -->
   
 
