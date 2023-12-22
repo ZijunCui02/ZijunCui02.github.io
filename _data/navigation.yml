@@ -11,14 +11,12 @@ main:
 
   - title: "Course Projects"
     url: /course projects/    
+
+  - title: "Awards & Honors"
+    url: /markdown/
     
   - title: "Activities & Highlight"
     url: /portfolio/
         
  #- title: "Blog Posts"
    # url: /year-archive/
-    
-
-    
-  - title: "Guide"
-    url: /markdown/
