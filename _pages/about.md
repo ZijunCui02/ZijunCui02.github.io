@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-![nuronmancer](/images/Brain.png){: .align-right width="220px"}
 
 <font size = 5>As a passionate senior at Zhejiang University, I am majoring in Electrical and Computer Engineering (ECE), a field that has captivated my interest and dedication. Throughout my undergraduate journey, I have developed a deep fascination for </font><b><font size = 5>analog/digital circuits, power electronics & electric machines, embedded systems</font></b><font size =5>, areas where I've actively engaged through rigorous coursework and hands-on projects.</font>
 
