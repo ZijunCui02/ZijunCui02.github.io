@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Musical GALA at Lingyun Musical Club, 2021"
+excerpt: "Playing the role of Evan Hansen. <br/><img src='/images/DEH.jpg'>"
 collection: portfolio
 ---
 
