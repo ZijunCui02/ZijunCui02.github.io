@@ -34,7 +34,7 @@ At Micro and Special Motor Research Institute
 
 I. Influence of Split Teeth on the Performance of Linear Permanent Magnet Vernier Motor
 ---
-[research website](https://zijuncui02.github.io/talks/2014-02-01-talk-2).
+[research website](https://zijuncui02.github.io/talks).
 service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
  II.Control System for the Brushless DC Motor (BLDCM)
