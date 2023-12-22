@@ -1,6 +1,6 @@
 ---
-title: "Musical GALA at Lingyun Musical Club, 2021"
-excerpt: "Playing the role of Evan Hansen. <br/><img src='/images/DEH.jpg'>"
+title: "Drama Stars & Earth at Aesthetic Education Center, 2022"
+excerpt: "Leading role in the drama Stars & Earth. <br/><img src='/images/Stars&Earth.jpg'>"
 collection: portfolio
 ---
 
