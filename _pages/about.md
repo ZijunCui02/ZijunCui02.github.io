@@ -26,22 +26,23 @@ As a passionate senior at Zhejiang University, I am majoring in Electrical and C
 
 - - -  
 
-Research Projects
+[Research Projects](https://zijuncui02.github.io/research%20projects/)
 ===  
 
 At Micro and Special Motor Research Institute
 ---
 
->I. Influence of Split Teeth on the Performance of Linear Permanent Magnet Vernier Motor
->---
+I. Influence of Split Teeth on the Performance of Linear Permanent Magnet Vernier Motor
+---
+[research website](https://zijuncui02.github.io/talks/2014-02-01-talk-2).
+service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+
+ II.Control System for the Brushless DC Motor (BLDCM)
+---
 [research website](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-> II.Control System for the Brushless DC Motor (BLDCM)
->---
-[research website](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-> III. Thrust Force Ripple Reduction Techniques for Linear Permanent Magnet Synchronous Machine (LPMSM)
->---
+ III. Thrust Force Ripple Reduction Techniques for Linear Permanent Magnet Synchronous Machine (LPMSM)
+---
 [research website](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 
@@ -49,8 +50,8 @@ At Micro and Special Motor Research Institute
 At Power Electronics and Power Conversion Research Institute  
 ---  
 
->Compensation Algorithm based Current Transformer with High Accuracy
->---
+Compensation Algorithm based Current Transformer with High Accuracy
+---
 [research website](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 - - -  
@@ -58,20 +59,20 @@ At Power Electronics and Power Conversion Research Institute
 Course Projects
 ===  
 
->Multi-function Digital Clock Based on Microcomputer
->---
+Multi-function Digital Clock Based on Microcomputer
+---
 
 [research website](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 
->Signal Generator & FPGA-based Digital Frequency Meter
->---  
+Signal Generator & FPGA-based Digital Frequency Meter
+---  
 
 [research website](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 
->Audio Amplifier Design 
->---  
+Audio Amplifier Design 
+---  
 
 [research website](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -99,16 +100,16 @@ Awards & Honors
 Leadership & Activities
 ===  
 
->Student Predisent at Class of Electrical Engineering and Automation
->---
+Student Predisent at Class of Electrical Engineering and Automation
+---
 Monitor is s!
 
->Musical *Dear Evan Hansen* at Lingyun Musical Club, *2021*
->---
+Musical *Dear Evan Hansen* at Lingyun Musical Club, *2021*
+---
 DEH yyds!
 
->Musical *GALA* at Lingyun Musical Club, *2022*
->---
+Musical *GALA* at Lingyun Musical Club, *2022*
+---
 
 GALA is s! 
 
