@@ -1,6 +1,6 @@
 ---
 title: "Student Predisent of Electrical Engineering and Automation Class"
-excerpt: "I am so good! <br/><img src='/images/500x300.png'>"
+excerpt: "A class trip to Hangzhou Zoo! <br/><img src='/images/ClassPresident1.jpg'>"
 collection: Activities & Highlight
 ---
 
