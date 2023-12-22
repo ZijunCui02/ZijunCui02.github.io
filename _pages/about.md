@@ -10,17 +10,17 @@ redirect_from:
 
 ![nuronmancer](/images/Brain.png){: .align-right width="220px"}
 
-As a passionate senior at Zhejiang University, I am majoring in Electrical and Computer Engineering (ECE), a field that has captivated my interest and dedication. Throughout my undergraduate journey, I have developed a deep fascination for **analog/digital circuits, power electronics & electric machines, embedded systems**, areas where I've actively engaged through rigorous coursework and hands-on projects.
+<font size = 4>As a passionate senior at Zhejiang University, I am majoring in Electrical and Computer Engineering (ECE), a field that has captivated my interest and dedication. Throughout my undergraduate journey, I have developed a deep fascination for </font><b><font size = 4>analog/digital circuits, power electronics & electric machines, embedded systems</font></b><font size =4>, areas where I've actively engaged through rigorous coursework and hands-on projects.</font>
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 <!-- code_chunk_output -->
-* [Research Experience](#research-projects)
-* [Course Projects](#course-projects)
-* [Internship Experiences](#internship-experiences)
-* [Awards & Honors](#awards--honors)
-* [Leadership & Activities](#leadership--activities)
-* [Join Me on My Journey](#join-me-on-my-journey)
-* [Contact Me](#contact-me)
+* [<b><font size = 2>Research Experience</font>](#research-projects)
+* [<font size = 2>Course Projects</font>](#course-projects)
+* [<font size = 2>Internship Experiences</font>](#internship-experiences)
+* [<font size = 2>Awards & Honors</font>](#awards--honors)
+* [<font size = 2>Leadership & Activities</font>](#leadership--activities)
+* [<font size = 2>Join Me on My Journey</font>](#join-me-on-my-journey)
+* [<font size = 2>Contact Me</font></b>](#contact-me)
 <!-- code_chunk_output -->
   
 
