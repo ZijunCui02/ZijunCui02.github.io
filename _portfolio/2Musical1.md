@@ -1,6 +1,6 @@
 ---
 title: "Musical Dear Evan Hansen at Lingyun Musical Club, 2021"
-excerpt: "Musical is good! <br/><img src='/images/500x300.png'>"
+excerpt: "Playing the role of Larry Murphy! <br/><img src='/images/500x300.png' width="500" height="400">"
 collection: Activities & Highlight
 ---
 
