@@ -1,21 +1,19 @@
 ---
-title: "Multi-function Digital Clock Based on Microcomputer"
+title: "Multi-function Digital Clock Based on Microcomputer,Team Leader"
 collection: teaching
-type: "College of Electrical Engineering"
+type: "A Microcomputer & DSP Intern Project"
 permalink: /course_projects/proj-3
-venue: "Multi-function Digital Clock Based on Microcomputer"
+venue: "Zhejiang University, College of Electrical Engineering"
 date: 2023-3-05
 location: "Hangzhou, China"
 ---
 
 ### A Microcomputer & DSP Intern Project
 
-###*Team Leader*
 
 
 
-
-*<font size=4>Advisor: [Xidong Xu](http://ee.zju.edu.cn/2020/0609/c51919a2150927/page.htm), Associate Professor, College of Electrical Engineering, Zhejiang University</font>*  
+*<font size=4>Advisor:</font> [*<font size=4>Xidong Xu</font>*](http://ee.zju.edu.cn/2020/0609/c51919a2150927/page.htm)*<font size=4>, Associate Professor, College of Electrical Engineering, Zhejiang University</font>*  
 
 - - -  
 
