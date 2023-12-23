@@ -26,52 +26,42 @@ redirect_from:
 
 - - -  
 
-[Research Projects](https://zijuncui02.github.io/research%20projects/)
-===
+{% include base_path %}
 
-## At Micro and Special Motor Research Institute
+[Download CV](http://ZijunCui02.github.io/files/CV_Zijun_Cui_12.21.pdf)
 
+Education
+======
+* B.E. in Electrical Engineering and Automation, Zhejiang University, june, 2024 (expected)
+* Jincheng No.1 High School, july, 2020
 
-### [I. Influence of Split Teeth on the Performance of Linear Permanent Magnet Vernier Motor]()
-
-### [II.Control System for the Brushless DC Motor (BLDCM)]()
-
-### [III. Thrust Force Ripple Reduction Techniques for Linear Permanent Magnet Synchronous Machine (LPMSM)]()
-
-
-
-## At Power Electronics and Power Conversion Research Institute  
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
   
 
-### [Compensation Algorithm based Current Transformer with High Accuracy]()
-
-
-
-- - -  
-
-[Course Projects](https://zijuncui02.github.io/course%20projects/)
-===  
+Research Projects
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
   
-### [Multi-function Digital Clock Based on Microcomputer]()
-
-
-
-
-### [Signal Generator & FPGA-based Digital Frequency Meter]()
-
-
-
-### [Audio Amplifier Design]()
-
-- - -
+Course Projects
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
 
 Internship Experiences
-=== 
-
- > ### [Shanghai Sany Electronic Technology Co., Ltd | R&D Engineer]()
-
+======
+ ### Shanghai Sany Electronic Technology Co., Ltd | R&D Engineer  
  
-- - -
+ - Played a key role in developing a mining protection system, enhancing anomaly detection and enabling instant alarm triggering in coal mining infrastructure. 
+ - Participated in the product function design, competitor analysis, and product framework development;
+ - Led the design and prototype of the power management circuit, carefully selected the components to ensure robustness in the humid environment, tested the prototyped circuit, and validated the circuit functionality and reliability. 
+  
 
 Awards & Honors  
 ===
@@ -81,6 +71,16 @@ Awards & Honors
 ### Student Leadership Award of Zhejiang University (Top 5%) Jun. 2022 
 
 - - -   
+
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3  
+- - -
 
 [Leadership & Activities](https://zijuncui02.github.io/portfolio/)
 === 
