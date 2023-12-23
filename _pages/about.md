@@ -14,7 +14,7 @@ redirect_from:
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 <!-- code_chunk_output -->
-* [<b>Publications & Research & Course Experience</b>](#publications){: style="color: #494E52"}
+* [<b>Publications, Research & Course Experiences</b>](#publications){: style="color: #494E52"}
 * [<b>Internship Experiences</b>](#internship-experiences){: style="color: #494E52"}
 * [<b>Awards & Skills </b>](#awards--honors){: style="color: #494E52"}
 * [<b>Leadership & Activities</b>](#leadership--activities){: style="color: #494E52"}
