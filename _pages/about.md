@@ -14,7 +14,7 @@ redirect_from:
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 <!-- code_chunk_output -->
-* [<b>Publications & Research & Course Experience</b>](#publications){: style="color: black"}
+* [<b>Publications & Research & Course Experience</b>](#publications){: style="color: #494E52"}
 * [<b>Internship Experiences</b>](#internship-experiences)
 * [<b>Awards & Skills </b>](#awards--honors)
 * [<b>Leadership & Activities</b>](#leadership--activities)
@@ -34,7 +34,7 @@ Education
 ======
 * B.E. in Electrical Engineering and Automation, Zhejiang University, june, 2024 (expected)
 
-[Publications](https://zijuncui02.github.io/publications/){: style="color: black"}
+[Publications](https://zijuncui02.github.io/publications/){: style="color: #494E52"}
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-talk-cv.html %}
