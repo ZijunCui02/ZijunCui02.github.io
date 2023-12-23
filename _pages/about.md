@@ -14,12 +14,10 @@ redirect_from:
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 <!-- code_chunk_output -->
-* [<b>Research Experience</b>](#research-projects)
-* [<b>Course Projects</b>](#course-projects)
+* [<b>Research & Course Experience</b>](#research-projects)
 * [<b>Internship Experiences</b>](#internship-experiences)
-* [<b>Awards & Honors</b>](#awards--honors)
+* [<b>Awards & Skills </b>](#awards--honors)
 * [<b>Leadership & Activities</b>](#leadership--activities)
-* [<b>Join Me on My Journey</b>](#join-me-on-my-journey)
 * [<b>Contact Me</b>](#contact-me)
 <!-- code_chunk_output -->
   
@@ -59,29 +57,28 @@ Course Projects
 Internship Experiences
 ======  
 
-### Shanghai Sany Electronic Technology Co., Ltd | R&D Engineer  
- 
- - Played a key role in developing a mining protection system, enhancing anomaly detection and enabling instant alarm triggering in coal mining infrastructure. 
- - Participated in the product function design, competitor analysis, and product framework development;
- - Led the design and prototype of the power management circuit, carefully selected the components to ensure robustness in the humid environment, tested the prototyped circuit, and validated the circuit functionality and reliability. 
-  
+ - ### Shanghai Sany Electronic Technology Co., Ltd | R&D Engineer
+
 
 Awards & Honors  
 ===
 
 - ### Excellent Student Cadre of Zhejiang University (Top 3%) Jun. 2021
 - ### Excellent Student Leadership Award of Zhejiang University (Top 3%) Oct. 2021
-- ### Student Leadership Award of Zhejiang University (Top 5%) Jun. 2022 
+- ### Student Leadership Award of Zhejiang University (Top 5%) Jun. 2022
+
 - - -   
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3  
+
+* ### Programming Languages:
+  * C, VHDL, HTML, CSS, JavaScript, Python, Assembly;
+* ### Applications:
+  * Quartus II, Cadence OrCAD, JMAG, Ansys Maxwell, Multisim, MATLAB, CLion, VS Code, Webstorm;
+* ### Language Proficiency:
+  * TOEFL Overall 100 (Best Scores: 104)
+  * TOEFL Reading 29, Listening 27, Speaking 24, Writing 20.
 - - -
 
 [Leadership & Activities](https://zijuncui02.github.io/portfolio/)
@@ -98,7 +95,7 @@ Skills
 Join Me on My Journey
 ===  
 
-As I look forward to starting my graduate studies, I invite you to explore this website to learn more about my projects, research interests, and academic achievements. Your insights, advice, and opportunities for collaboration are always welcome.  
+- As I look forward to starting my graduate studies, I invite you to explore this website to learn more about my projects, research interests, and academic achievements. Your insights, advice, and opportunities for collaboration are always welcome.   
 
 - - -   
 
