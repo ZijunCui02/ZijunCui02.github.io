@@ -14,7 +14,7 @@ redirect_from:
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 <!-- code_chunk_output -->
-* [<b>Research & Course Experience</b>](#research-projects)
+* [<b>Publications & Research & Course Experience</b>](#publications)
 * [<b>Internship Experiences</b>](#internship-experiences)
 * [<b>Awards & Skills </b>](#awards--honors)
 * [<b>Leadership & Activities</b>](#leadership--activities)
@@ -33,7 +33,6 @@ CV
 Education
 ======
 * B.E. in Electrical Engineering and Automation, Zhejiang University, june, 2024 (expected)
-* Jincheng No.1 High School, july, 2020
 
 [Publications](https://zijuncui02.github.io/publications/)
 ======
