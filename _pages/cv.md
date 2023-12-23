@@ -1,57 +1,14 @@
 ---
-layout: archive
-title: "CV"
-permalink: /cv/
+title: "Intership Experiences"
+permalink: /intership_experiences/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
-[Download CV](http://ZijunCui02.github.io/files/CV_Zijun_Cui_12.21.pdf)
 
-Education
-======
-* B.E. in Electrical Engineering and Automation, Zhejiang University, june, 2024 (expected)
-* Jincheng No.1 High School, july, 2020
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-
-Research Projects
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Course Projects
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Internship Experiences
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### Shanghai Sany Electronic Technology Co., Ltd | R&D Engineer  
+- Played a key role in developing a mining protection system, enhancing anomaly detection and enabling instant alarm triggering in coal mining infrastructure. 
+- Participated in the product function design, competitor analysis, and product framework development;
+- Led the design and prototype of the power management circuit, carefully selected the components to ensure robustness in the humid environment, tested the prototyped circuit, and validated the circuit functionality and reliability. 
