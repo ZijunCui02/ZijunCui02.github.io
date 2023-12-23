@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![nuronmancer](/images/Brain.png){: .align-right width="200px"}
+![nuronmancer](/images/circuits.jpg){: .align-right width="220px"}
 
 <font size = 4>As a passionate senior at Zhejiang University, I am majoring in Electrical and Computer Engineering (ECE), a field that has captivated my interest and dedication. Throughout my undergraduate journey, I have developed a deep fascination for <b>analog/digital circuits, power electronics & electric machines, embedded systems</b>, areas where I've actively engaged through rigorous coursework and hands-on projects.</font>
 
@@ -77,8 +77,12 @@ Skills
 * ### Applications:
   * Quartus II, Cadence OrCAD, JMAG, Ansys Maxwell, Multisim, MATLAB, CLion, VS Code, Webstorm;
 * ### Language Proficiency:
-  * TOEFL Overall 100 (Best Scores: 104)
-  * TOEFL Reading 29, Listening 27, Speaking 24, Writing 20.
+  * TOEFL Overall 100 (Best Scores: 104).
+  * TOEFL Reading 29.
+  * Listening 27.
+  * Speaking 24 (Best Scores: 25).
+  * Writing 20 (Best Scores: 23).
+
 - - -
 
 [Leadership & Activities](https://zijuncui02.github.io/portfolio/)
