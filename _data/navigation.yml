@@ -14,10 +14,10 @@ main:
     url: /internship_experiences/
 
   - title: "Awards & Honors"
-    url: /markdown/
+    url: /awards_honors/
     
   - title: "Leadership & Activities"
-    url: /portfolio/
+    url: /leadership_activities/
         
  #- title: "Blog Posts"
    # url: /year-archive/
