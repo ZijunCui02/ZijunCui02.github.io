@@ -28,7 +28,9 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](http://ZijunCui02.github.io/files/CV_Zijun_Cui_12.21.pdf)
+CV
+======
+[<b>Download CV</b>](http://ZijunCui02.github.io/files/CV_Zijun_Cui_12.21.pdf)
 
 Education
 ======
@@ -55,8 +57,9 @@ Course Projects
   {% endfor %}</ul>
 
 Internship Experiences
-======
- ### Shanghai Sany Electronic Technology Co., Ltd | R&D Engineer  
+======  
+
+### Shanghai Sany Electronic Technology Co., Ltd | R&D Engineer  
  
  - Played a key role in developing a mining protection system, enhancing anomaly detection and enabling instant alarm triggering in coal mining infrastructure. 
  - Participated in the product function design, competitor analysis, and product framework development;
@@ -66,10 +69,9 @@ Internship Experiences
 Awards & Honors  
 ===
 
-### Excellent Student Cadre of Zhejiang University (Top 3%) Jun. 2021
-### Excellent Student Leadership Award of Zhejiang University (Top 3%) Oct. 2021
-### Student Leadership Award of Zhejiang University (Top 5%) Jun. 2022 
-
+- ### Excellent Student Cadre of Zhejiang University (Top 3%) Jun. 2021
+- ### Excellent Student Leadership Award of Zhejiang University (Top 3%) Oct. 2021
+- ### Student Leadership Award of Zhejiang University (Top 5%) Jun. 2022 
 - - -   
 
 Skills
@@ -85,13 +87,11 @@ Skills
 [Leadership & Activities](https://zijuncui02.github.io/portfolio/)
 === 
 
-### [Student Predisent at Class of Electrical Engineering and Automation]()
+- ### [Student Predisent at Class of Electrical Engineering and Automation]()
 
+- ### [Musical *Dear Evan Hansen* at Lingyun Musical Club, *2021*]()
 
-### [Musical *Dear Evan Hansen* at Lingyun Musical Club, *2021*]()
-
-### [Musical *GALA* at Lingyun Musical Club, *2022*]()
-
+- ### [Musical *GALA* at Lingyun Musical Club, *2022*]()
 
 - - -   
 
