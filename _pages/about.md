@@ -35,32 +35,32 @@ Education
 * B.E. in Electrical Engineering and Automation, Zhejiang University, june, 2024 (expected)
 * Jincheng No.1 High School, july, 2020
 
-Publications
+[Publications](https://zijuncui02.github.io/publications/)
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 
-Research Projects
+[Research Projects]((https://zijuncui02.github.io/research%20projects/))
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Course Projects
+[Course Projects](https://zijuncui02.github.io/course%20projects/)
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Internship Experiences
+[Internship Experiences](https://zijuncui02.github.io/internship_experiences/)
 ======  
 
  - ### Shanghai Sany Electronic Technology Co., Ltd | R&D Engineer
 
 
-Awards & Honors  
+[Awards & Honors](https://zijuncui02.github.io/awards_honors/)  
 ===
 
 - ### Excellent Student Cadre of Zhejiang University (Top 3%) Jun. 2021
@@ -85,7 +85,7 @@ Skills
 
 - - -
 
-[Leadership & Activities](https://zijuncui02.github.io/portfolio/)
+[Leadership & Activities](https://zijuncui02.github.io/leadership_activities/)
 === 
 
 - ### [Student Predisent at Class of Electrical Engineering and Automation]()
