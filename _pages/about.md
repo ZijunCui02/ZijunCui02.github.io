@@ -14,7 +14,7 @@ redirect_from:
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 <!-- code_chunk_output -->
-* [<b>Publications & Research & Course Experience</b>](#publications)
+* [<b>Publications & Research & Course Experience</b>](#publications){: style="color: black"}
 * [<b>Internship Experiences</b>](#internship-experiences)
 * [<b>Awards & Skills </b>](#awards--honors)
 * [<b>Leadership & Activities</b>](#leadership--activities)
@@ -34,32 +34,32 @@ Education
 ======
 * B.E. in Electrical Engineering and Automation, Zhejiang University, june, 2024 (expected)
 
-[Publications](https://zijuncui02.github.io/publications/)
+[Publications](https://zijuncui02.github.io/publications/){: style="color: black"}
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 
-[Research Projects]((https://zijuncui02.github.io/research%20projects/))
+[Research Projects](https://zijuncui02.github.io/research%20projects/){: style="color: black"}
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-[Course Projects](https://zijuncui02.github.io/course%20projects/)
+[Course Projects](https://zijuncui02.github.io/course%20projects/){: style="color: black"}
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-[Internship Experiences](https://zijuncui02.github.io/internship_experiences/)
+[Internship Experiences](https://zijuncui02.github.io/internship_experiences/){: style="color: black"}
 ======  
 
  - ### Shanghai Sany Electronic Technology Co., Ltd | R&D Engineer
 
 
-[Awards & Honors](https://zijuncui02.github.io/awards_honors/)  
+[Awards & Honors](https://zijuncui02.github.io/awards_honors/){: style="color: black"}
 ===
 
 - ### Excellent Student Cadre of Zhejiang University (Top 3%) Jun. 2021
@@ -84,7 +84,7 @@ Skills
 
 - - -
 
-[Leadership & Activities](https://zijuncui02.github.io/leadership_activities/)
+[Leadership & Activities](https://zijuncui02.github.io/leadership_activities/){: style="color: black"}
 === 
 
 - ### [Student Predisent at Class of Electrical Engineering and Automation]()
