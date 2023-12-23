@@ -1,6 +1,6 @@
 ---
 title: "Intership Experiences"
-permalink: /intership_experiences/
+permalink: /internship_experiences/
 author_profile: true
 redirect_from:
   - /resume
