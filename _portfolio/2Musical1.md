@@ -4,6 +4,8 @@ excerpt: "Playing the role of Larry Murphy. <br/><img src='/images/Larry Murphy.
 collection: Activities & Highlight
 ---
 
-[DEH2](images/DEH2.jpg)
-[DEH](images/DEH.jpg)
+![DEH2](/images/DEH2.jpg)
+
+  
+![DEH](images/DEH.jpg)
 
