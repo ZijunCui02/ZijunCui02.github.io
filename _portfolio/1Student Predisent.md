@@ -1,7 +1,12 @@
 ---
-title: "Student Predisent of Electrical Engineering and Automation Class"
-excerpt: "A class trip to Hangzhou Zoo! <br/><img src='/images/ClassPresident1.jpg'>"
+title: "Student Leader of Electrical Engineering and Automation Class"
+excerpt: "A class trip to Hangzhou Zoo in the picture! <br/><img src='/images/ClassPresident1.jpg'>"
 collection: Activities & Highlight
 ---
+*September. 2020 - July. 2021*
+- - -  
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+Summary
+===
+- Established the official class website, and authored 13 articles.
+- Organized monthly meetings, study sessions, basketball games, and class trips.
