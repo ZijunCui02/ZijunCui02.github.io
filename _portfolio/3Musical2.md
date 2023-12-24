@@ -4,8 +4,6 @@ excerpt: "Playing the role of Evan Hansen. <br/><img src='/images/DEH.jpg'>"
 collection: portfolio
 ---  
 
-![GALA](/images/GALA.jpg)  
-
 ![GALA2](/images/GALA2.jpg)  
 
 ![GALA4](/images/GALA4.jpg)  
