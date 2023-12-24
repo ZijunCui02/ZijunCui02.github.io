@@ -13,5 +13,14 @@ Summary
 
 Visiting and Volunteering at Community
 ===
-![SL2](/images/SL2.jpg)
+![SL2](/images/SL2.jpg)  
+
+Organized Basketball Games
+===
+![ball](/images/ball.png)  
+
+Organized Monthly Meetings
+===
+![meet](/images/meet.jpg)  
+
 
