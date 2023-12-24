@@ -5,6 +5,5 @@ collection: Activities & Highlight
 ---
 
 ![DEH2](/images/DEH2.jpg)
-
 ![DEH](images/DEH.jpg)
 
