@@ -77,10 +77,10 @@ Skills
   * Quartus II, Cadence OrCAD, JMAG, Ansys Maxwell, Multisim, MATLAB, CLion, VS Code, Webstorm;
 * ### Language Proficiency:
   * TOEFL Overall 100 (Best Scores: 104).
-  * TOEFL Reading 29.
-  * Listening 27.
-  * Speaking 24 (Best Scores: 25).
-  * Writing 20 (Best Scores: 23).
+    * Reading 29.
+    * Listening 27.
+    * Speaking 24 (Best Scores: 25).
+    * Writing 20 (Best Scores: 23).
 
 - - -
 
