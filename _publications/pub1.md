@@ -9,6 +9,9 @@ venue: 'International Symposium on Linear Drivers for Industry Applications (LDI
 paperurl: 'https://doi.org/10.1109/LDIA59564.2023.10297520'
 ---
 
+*<font size=4>Advisors:</font> [<font size=4>Yanxin Li</font>](https://person.zju.edu.cn/en/EElyx)<font size=4>, Professor, </font> [<font size=4>Qinfen Lu</font>](https://person.zju.edu.cn/en/qflu)<font size=4>, IET Fellow, IEEE Senior Member, Professor, Micro and Special Motor Institute, College of Electrical Engineering, Zhejiang University</font>*   
+
+
 Find in IEEE Xplore [Here](https://doi.org/10.1109/LDIA59564.2023.10297520)  
 
 Abstract  
