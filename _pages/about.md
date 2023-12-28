@@ -10,7 +10,7 @@ redirect_from:
 
 ![nuronmancer](/images/circuits.jpg){: .align-right width="220px"}
 
-<font size = 4>As a passionate senior at Zhejiang University, I am majoring in Electrical and Computer Engineering (ECE), a field that has captivated my interest and dedication. Throughout my undergraduate journey, I have developed a deep fascination for <b>analog/digital circuits, power electronics & electric machines, embedded systems</b>, areas where I've actively engaged through rigorous coursework and hands-on projects.</font>
+<font size = 4>As a passionate senior undergraduate at Zhejiang University, I am majoring in Electrical and Computer Engineering (ECE), a field that has captivated my interest and dedication. Throughout my undergraduate journey, I have developed a deep fascination for <b>analog/digital circuits, power electronics & electric machines, embedded systems</b>, areas where I've actively engaged through rigorous coursework and hands-on projects.</font>
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 <!-- code_chunk_output -->
@@ -32,8 +32,7 @@ CV
 
 Education
 ======
-* B.E. in Electrical Engineering and Automation
-       at College of Electrical Engineering, Zhejiang University, June, 2024 (expected)
+* B.E. in Electrical Engineering and Automation, College of Electrical Engineering, Zhejiang University, June, 2024 (expected)
 
 [Publications](https://zijuncui02.github.io/publications/){: style="color: #494E52"}
 ======
