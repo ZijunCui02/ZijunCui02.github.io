@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Zijun Cui"
   avatar           : "ZijunCui.png"
-  bio              : "A Senior in ECE/EE at Zhejiang University."
+  bio              : "A senior undergraduate in ECE/EE at Zhejiang University, with a strong interest in pursuing research opportunities."
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "cuizijun02@163.com"
+  email            : "zijun02@zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
