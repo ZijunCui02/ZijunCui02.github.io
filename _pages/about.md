@@ -28,7 +28,7 @@ redirect_from:
 
 CV
 ======
-[<b>Download CV</b>](http://ZijunCui02.github.io/files/CV_Zijun_Cui_12.26.pdf)
+[<b>Download CV</b>](http://ZijunCui02.github.io/files/CV_Zijun_Cui_12.28.pdf)
 
 Education
 ======
