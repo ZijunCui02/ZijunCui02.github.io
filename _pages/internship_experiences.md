@@ -8,6 +8,10 @@ redirect_from:
 
 ## Shanghai Sany Electronic Technology Co., Ltd | R&D Engineer  
 
+*June. 2023 - September. 2023*  
+
+*<font size=4>Advisor:</font> [<font size=4>Zhihong Fu</font>](https://person.zju.edu.cn/en/EElyx)<font size=4>, Director of the R&D Department, Shanghai Sany Electronic Technology</font>*   
+
 - Played a key role in developing a mining protection system, enhancing anomaly detection and enabling instant alarm triggering in coal mining infrastructure. 
 - Participated in the product function design, competitor analysis, and product framework development;
 - Led the design and prototype of the power management circuit, carefully selected the components to ensure robustness in the humid environment, tested the prototyped circuit, and validated the circuit functionality and reliability. 
