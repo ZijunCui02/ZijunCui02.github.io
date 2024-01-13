@@ -8,9 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-![nuronmancer](/images/circuits.jpg){: .align-right width="220px"}
 
-<font size = 4>As a passionate senior undergraduate at Zhejiang University, I am majoring in Electrical and Computer Engineering (ECE), a field that has captivated my interest and dedication. Throughout my undergraduate journey, I have developed a deep fascination for <b>analog/digital circuits, power electronics & electric machines, embedded systems</b>, areas where I've actively engaged through rigorous coursework and hands-on projects.</font>
+<p>    
+<img  src="/images/circuits.jpg"  width="220"  align="right" />
+<font size = 4>As a passionate senior undergraduate at Zhejiang University, I am majoring in Electrical and Computer Engineering (ECE), a field that has captivated my interest and dedication. Throughout my undergraduate journey, I have developed a deep fascination for <b>analog/digital circuits, power electronics & electric machines, and embedded systems</b>, areas where I've actively engaged through rigorous coursework and hands-on projects.</font>
+</p>
+
+
+
+
+
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 <!-- code_chunk_output -->
@@ -32,7 +39,7 @@ CV
 
 Education
 ======
-* B.E. in Electrical Engineering and Automation, College of Electrical Engineering, Zhejiang University, June, 2024 (expected)
+* B.E. in Electrical Engineering and Automation, College of Electrical Engineering, Zhejiang University, June 2024 (expected)
 
 [Publications](https://zijuncui02.github.io/publications/){: style="color: #494E52"}
 ======
@@ -87,7 +94,7 @@ Skills
 [Leadership & Activities](https://zijuncui02.github.io/leadership_activities/){: style="color: #494E52"}
 === 
 
-- ### [Student Predisent at Class of Electrical Engineering and Automation](https://zijuncui02.github.io/portfolio/1Student%20Predisent/)
+- ### [Student President at Class of Electrical Engineering and Automation](https://zijuncui02.github.io/portfolio/1Student%20Predisent/)
 
 - ### [Musical *Dear Evan Hansen* at Lingyun Musical Club, *2021*](https://zijuncui02.github.io/portfolio/2Musical1/)
 
@@ -100,7 +107,7 @@ Skills
 Join Me on My Journey
 ===  
 
-- As I look forward to starting my graduate studies, I invite you to explore this website to learn more about my projects, research interests, and academic achievements. Your insights, advice, and opportunities for collaboration are always welcome.   
+- As I look forward to starting my graduate studies, I invite you to explore this website to learn more about my projects, research interests, and academic achievements. I want you to know that your insights, advice, and opportunities for collaboration are always welcome.   
 
 - - -   
 
