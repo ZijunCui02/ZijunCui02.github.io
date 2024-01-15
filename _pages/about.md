@@ -9,11 +9,6 @@ redirect_from:
 ---
 
 
-<p>    
-<img  src="/images/circuits.jpg"  width="220"  align="right" />
-<font size = 4>As a passionate senior undergraduate at Zhejiang University, I am majoring in Electrical and Computer Engineering (ECE), a field that has captivated my interest and dedication. Throughout my undergraduate journey, I have developed a deep fascination for <b>power electronics, analog/digital circuits, motor design & drive, and embedded systems</b>, areas where I've actively engaged through rigorous coursework and hands-on projects.</font>
-</p>
-
 
 
 
