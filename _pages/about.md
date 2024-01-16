@@ -58,7 +58,11 @@ Education
 [Internship Experiences](https://zijuncui02.github.io/internship_experiences/){: style="color: #494E52"}  
 ======  
 
- - Shanghai Sany Electronic Technology Co., Ltd | R&D Engineer
+ - ### Shanghai Sany Electronic Technology Co., Ltd | R&D Engineer
+
+<figure>
+		Led the design and prototype of the power management circuit and Played a key role in developing an electric mining protection system.
+</figure>
 
 
 [Awards & Honors](https://zijuncui02.github.io/awards_honors/){: style="color: #494E52"}  
