@@ -102,7 +102,7 @@ Skills
 Join Me on My Journey
 ===  
 <p style = "text-align:justify; text-justify:inter-ideograph;">
-- As I look forward to starting my graduate studies, I invite you to explore this website to learn more about my projects, research interests, and academic achievements. I want you to know that your insights, advice, and opportunities for collaboration are always welcome.   
+As I look forward to starting my graduate studies, I invite you to explore this website to learn more about my projects, research interests, and academic achievements. I want you to know that your insights, advice, and opportunities for collaboration are always welcome.   
 </p>  
 
 - - -   
