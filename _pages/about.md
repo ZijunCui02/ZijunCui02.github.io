@@ -11,7 +11,7 @@ redirect_from:
 
 <p style = "text-align:justify; text-justify:inter-ideograph;">
 <font size = 4>As a passionate senior undergraduate at Zhejiang University, I am majoring in Electrical Engineering (EE/ECE), a field that has captivated my interest and dedication. Throughout my undergraduate journey, I have developed a deep fascination for <b>power electronics, analog and digital circuits, motor design & drive, and embedded systems</b>, areas where I've actively engaged through rigorous coursework and hands-on projects.</font>
-<p>  
+</p>  
 
 - - -
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
