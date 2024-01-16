@@ -89,13 +89,13 @@ Skills
 [Leadership & Activities](https://zijuncui02.github.io/leadership_activities/){: style="color: #494E52"}
 === 
 
-- ### [Student President at Class of Electrical Engineering and Automation](https://zijuncui02.github.io/portfolio/1Student%20Predisent/)
+- [Student President at Class of Electrical Engineering and Automation](https://zijuncui02.github.io/portfolio/1Student%20Predisent/)
 
-- ### [Musical *Dear Evan Hansen* at Lingyun Musical Club, *2021*](https://zijuncui02.github.io/portfolio/2Musical1/)
+- [Musical *Dear Evan Hansen* at Lingyun Musical Club, *2021*](https://zijuncui02.github.io/portfolio/2Musical1/)
 
-- ### [Musical *GALA* at Lingyun Musical Club, *2022*](https://zijuncui02.github.io/portfolio/3Musical2/)
+- [Musical *GALA* at Lingyun Musical Club, *2022*](https://zijuncui02.github.io/portfolio/3Musical2/)
 
-- ### [Drama *Stars & Earth* at Aesthetic Education Center, *2022*](https://zijuncui02.github.io/portfolio/4Drama1/)
+- [Drama *Stars & Earth* at Aesthetic Education Center, *2022*](https://zijuncui02.github.io/portfolio/4Drama1/)
 
 - - -   
 
