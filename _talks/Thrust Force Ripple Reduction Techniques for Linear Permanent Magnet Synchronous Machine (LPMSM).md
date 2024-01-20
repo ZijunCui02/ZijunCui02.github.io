@@ -27,16 +27,16 @@ Summary
 - Currently engaging in advanced finite element analysis to evaluate and improve these methods under varied operational conditions, aiming to develop an optimized technique for reducing thrust force ripple in LPMSMs.
 
 
-![TF_Ripple1](/images/TF_Ripple1.png)  
+![TF_Ripple1](/images/TF_Ripple1.PNG)  
 - - -  
 
-![TF_Ripple2](/images/TF_Ripple2.png)  
+![TF_Ripple2](/images/TF_Ripple2.PNG)  
 - - -  
 
-![TF_Ripple3](/images/TF_Ripple3.png)  
+![TF_Ripple3](/images/TF_Ripple3.PNG)  
 - - -  
 
-![TF_Ripple4](/images/TF_Ripple4.png)  
+![TF_Ripple4](/images/TF_Ripple4.PNG)  
 - - -  
 
 
