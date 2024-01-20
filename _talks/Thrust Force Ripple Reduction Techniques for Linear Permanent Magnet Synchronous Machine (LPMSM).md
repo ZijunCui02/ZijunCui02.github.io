@@ -19,7 +19,7 @@ location: "Hangzhou, China"
 Introduction
 ===  
 
-With the increasing demand for precision machining technology in China, there is an urgent need to develop high-precision linear permanent magnet motors, especially products that can operate smoothly under various working conditions with minimal thrust fluctuations. This project focuses on a comparative study of thrust fluctuation suppression techniques for the widely used linear flat plate surface-mounted permanent magnet motors. Finite element software is utilized to simulate and compare different structural optimization methods aimed at reducing thrust fluctuations. The study provides guidance for the application of linear permanent magnet motors in high-precision scenarios.  
+<p style = "text-align:justify; text-justify:inter-ideograph;"> With the increasing demand for precision machining technology in China, there is an urgent need to develop high-precision linear permanent magnet motors, especially products that can operate smoothly under various working conditions with minimal thrust fluctuations. This project focuses on a comparative study of thrust fluctuation suppression techniques for the widely used linear flat plate surface-mounted permanent magnet motors. Finite element software is utilized to simulate and compare different structural optimization methods aimed at reducing thrust fluctuations. The study provides guidance for the application of linear permanent magnet motors in high-precision scenarios. </p>
 
 Summary
 ===
