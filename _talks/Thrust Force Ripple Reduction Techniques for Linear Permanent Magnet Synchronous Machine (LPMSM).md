@@ -25,6 +25,8 @@ Summary
 ===
 - Conducted a comprehensive analysis of thrust force ripple reduction methods in LPMSMs, synthesizing existing literature into a detailed report that critiques various approaches and their limitations.
 - Currently engaging in advanced finite element analysis to evaluate and improve these methods under varied operational conditions, aiming to develop an optimized technique for reducing thrust force ripple in LPMSMs.
+
+  
 - - -  
 
 
