@@ -36,7 +36,4 @@ Summary
 ![TF_Ripple3](/images/TF_Ripple3.PNG)  
 - - -  
 
-![TF_Ripple4](/images/TF_Ripple4.PNG)  
-- - -  
-
 
