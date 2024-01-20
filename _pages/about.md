@@ -34,7 +34,7 @@ CV
 
 Education
 ======
-* B.E. in Electrical Engineering and Automation, College of Electrical Engineering, Zhejiang University, June 2024
+* B.E. in Electrical Engineering and Automation, College of Electrical Engineering Zhejiang University, June 2024.
 
 [Publications](https://zijuncui02.github.io/publications/){: style="color: #494E52"}
 ======
