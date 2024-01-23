@@ -27,7 +27,7 @@ Education
 
 - - -  
 
-[Publications](https://zijuncui02.github.io/publications/){: style="color: #494E52"}
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-talk-cv.html %}
@@ -35,7 +35,7 @@ Education
 
 - - -  
 
-[Research Projects](https://zijuncui02.github.io/research%20projects/){: style="color: #494E52"}
+Research Projects
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -43,7 +43,7 @@ Education
 
 - - -  
 
-[Course Projects](https://zijuncui02.github.io/course%20projects/){: style="color: #494E52"}
+Course Projects
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-talk-cv.html %}
@@ -51,16 +51,16 @@ Education
 
 - - -  
 
-[Internship Experiences](https://zijuncui02.github.io/internship_experiences/){: style="color: #494E52"}  
+Internship Experiences
 ======  
- - ### Shanghai Sany Electronic Technology Co., Ltd | R&D Engineer
+ - ### [Shanghai Sany Electronic Technology Co., Ltd | R&D Engineer](https://zijuncui02.github.io/internship_experiences/){: style="color: #494E52"}  
 <blockquote>
 	Led the design and prototype of the power management circuit and played a key role in developing an electric mining protection system.
 </blockquote>  
 
 - - -  
 
-[Awards & Honors](https://zijuncui02.github.io/awards_honors/){: style="color: #494E52"}  
+Awards & Honors
 ===
 
 - Excellent Student Cadre of Zhejiang University Jun. 2021
@@ -93,7 +93,7 @@ Skills
 
 - - -  
 
-[Leadership & Activities](https://zijuncui02.github.io/leadership_activities/){: style="color: #494E52"}
+Leadership & Activities
 === 
 
 - [Student President at Class of Electrical Engineering and Automation](https://zijuncui02.github.io/portfolio/1Student%20Predisent/)
