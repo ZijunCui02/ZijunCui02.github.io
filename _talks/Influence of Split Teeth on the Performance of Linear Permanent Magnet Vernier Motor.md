@@ -24,8 +24,9 @@ Abstract
 - <p style = "text-align:justify; text-justify:inter-ideograph;"> <b>Results and Conclusion</b>: Finally, it is concluded that the thrust ripple of the motor is weakened by the use of split-teeth, but at the same time, the average thrust of the motor is also reduced. Moreover, the increase of the number of split teeth will reduce the power factor of the motor.</p>  
 
   
-- - - 
-Research Approach
+- - -  
+
+Research Approach  
 ===  
 
 - <p style = "text-align:justify; text-justify:inter-ideograph;"> Conducted a comprehensive study of linear permanent magnet motors, focusing on their design and operating principles, and learned finite element analysis techniques specific to these motors.</p>
