@@ -3,7 +3,7 @@ title: "Influence of Split Teeth on the Performance of Linear Permanent Magnet V
 collection: research projects
 type: "A project for the performance improvement of novel linear permanent magnet machines (LPMMs)"
 permalink: /research/project-2
-venue: "Zhejiang University, Micro and Special Motor Research Institute"
+venue: "Micro and Special Motor Research Institute, Zhejiang University"
 date: 2023-6-28
 location: "Hangzhou, China"
 ---
