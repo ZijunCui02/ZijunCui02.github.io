@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-<p style="text-align: justify; text-justify: inter-ideograph;"> emsp; As a passionate senior undergraduate at Zhejiang University, I am majoring in Electrical Engineering (EE/ECE), a field that has captivated my interest and dedication. Throughout my undergraduate journey, I have developed a deep fascination for <b>power electronics, power management circuits, analog/digital circuits, power systems, motor design & drive, and embedded systems</b>, areas where I've actively engaged through rigorous coursework and hands-on projects.</p>  
+<p style="text-align: justify; text-justify: inter-ideograph;">  As a passionate senior undergraduate at Zhejiang University, I am majoring in Electrical Engineering (EE/ECE), a field that has captivated my interest and dedication. Throughout my undergraduate journey, I have developed a deep fascination for <b>power electronics, power management circuits, analog/digital circuits, power systems, motor design & drive, and embedded systems</b>, areas where I've actively engaged through rigorous coursework and hands-on projects.</p>  
 
 - - -  
 
@@ -53,7 +53,7 @@ Course Projects
 
 Internship Experiences
 ======  
- - <font size=4>[Shanghai Sany Electronic Technology Co., Ltd | R&D Engineer](https://zijuncui02.github.io/internship_experiences/)</font>
+ - [<font size=4>Shanghai Sany Electronic Technology Co., Ltd | R&D Engineer</font>](https://zijuncui02.github.io/internship_experiences/)
 
 <blockquote>
 	Led the design and prototype of the power management circuit and played a key role in developing an electric mining protection system.
