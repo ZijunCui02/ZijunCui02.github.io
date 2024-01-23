@@ -67,12 +67,10 @@ Skills
 * <blockquote>
 	  Programming Languages:
 	  C, VHDL, HTML, CSS, JavaScript, Python, Assembly;
-</blockquote>  
 
 * <blockquote>
 	  Applications:
 	  Quartus II, Cadence OrCAD, JMAG, Ansys Maxwell, Multisim, MATLAB, CLion, VS Code, Webstorm;
-</blockquote>  
   
 * <blockquote>
 	  Language Proficiency:
@@ -81,7 +79,6 @@ Skills
 	  Listening 27<br>
 	  Speaking 24 (Best Scores: 25)<br>
 	  Writing 20 (Best Scores: 23)<br>
-</blockquote>  
 
 - - -  
 
