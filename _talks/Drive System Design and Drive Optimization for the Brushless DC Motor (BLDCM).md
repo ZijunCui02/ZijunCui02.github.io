@@ -13,7 +13,7 @@ location: "Hangzhou, China"
 *August, 2023 - October, 2023*
 - - -
 
-Summary
+Research Approach
 ===
 
 - Designed the half-bridge power transistor driver and pulse-wide-modulation (PWM) signal generation circuit and configured three-phase Hall sensors.
