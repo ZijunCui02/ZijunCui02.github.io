@@ -27,9 +27,9 @@ Abstract
 Research Approach
 ===  
 <p style = "text-align:justify; text-justify:inter-ideograph;"> 
-- Conducted a comprehensive study of linear permanent magnet motors, focusing on their design and operating principles, and learned finite element analysis techniques specific to these motors.
-- Conducted detailed finite element analyses in JMAG to evaluate the electromagnetic performance of three LPMMs with varying split tooth structures, providing insights into their influence on efficiency, thrust, and power factor.
-- Co-authored and revised a conference paper presented at the 2023 14th International Symposium on Linear Drivers for Industry Application(LDIA).
+- Conducted a comprehensive study of linear permanent magnet motors, focusing on their design and operating principles, and learned finite element analysis techniques specific to these motors.<br>
+- Conducted detailed finite element analyses in JMAG to evaluate the electromagnetic performance of three LPMMs with varying split tooth structures, providing insights into their influence on efficiency, thrust, and power factor.<br>
+- Co-authored and revised a conference paper presented at the 2023 14th International Symposium on Linear Drivers for Industry Application(LDIA).<br>
 </p>
 
 
