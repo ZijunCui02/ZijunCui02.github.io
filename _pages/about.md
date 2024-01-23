@@ -58,8 +58,6 @@ Education
 - Excellent Student Leadership Award of Zhejiang University (Top 3%) Oct. 2021
 - Student Leadership Award of Zhejiang University (Top 5%) Jun. 2022
 
-- - -   
-
 Skills
 ======
 
@@ -84,9 +82,6 @@ Skills
 	  Writing 20 (Best Scores: 23)<br>
 </blockquote>
   
-- - -  
-
-
 [Leadership & Activities](https://zijuncui02.github.io/leadership_activities/){: style="color: #494E52"}
 === 
 
@@ -97,15 +92,12 @@ Skills
 - [Musical *GALA* at Lingyun Musical Club, *2022*](https://zijuncui02.github.io/portfolio/3Musical2/)
 
 - [Drama *Stars & Earth* at Aesthetic Education Center, *2022*](https://zijuncui02.github.io/portfolio/4Drama1/)
-
-- - -   
-
+  
 Join Me on My Journey
 ===  
 <p style = "text-align:justify; text-justify:inter-ideograph;">As I look forward to starting my graduate studies, I invite you to explore this website to learn more about my projects, research interests, and academic achievements. I want you to know that your insights, advice, and opportunities for collaboration are always welcome.   </p>  
 
-- - -   
-
+  
 Contact Me:
 === 
 
