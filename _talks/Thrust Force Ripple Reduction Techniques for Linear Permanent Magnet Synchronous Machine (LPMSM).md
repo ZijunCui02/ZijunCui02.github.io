@@ -31,5 +31,5 @@ Research Approach
 - <p style = "text-align:justify; text-justify:inter-ideograph;"> Currently engaging in advanced finite element analysis to evaluate and improve these methods under varied operational conditions, aiming to develop an optimized technique for reducing thrust force ripple in LPMSMs.</p>  
 
 - - -  
-
+![TF_Ripple4](/images/TF_Ripple4.PNG)  
 
