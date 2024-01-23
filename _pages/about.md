@@ -12,18 +12,7 @@ redirect_from:
 
 
 
-<p style="text-align: justify; text-justify: inter-ideograph;">As a passionate senior undergraduate at Zhejiang University, I am majoring in Electrical Engineering (EE/ECE), a field that has captivated my interest and dedication. Throughout my undergraduate journey, I have developed a deep fascination for <b>power electronics, power management circuits, analog/digital circuits, power systems, motor design & drive, and embedded systems</b>, areas where I've actively engaged through rigorous coursework and hands-on projects.</p>
-
-
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-<!-- code_chunk_output -->
-* [<b>Publications, Research & Course Projects</b>](#publications){: style="color: #494E52"}
-* [<b>Internship Experiences</b>](#internship-experiences){: style="color: #494E52"}
-* [<b>Awards & Skills </b>](#awards--honors){: style="color: #494E52"}
-* [<b>Leadership & Activities</b>](#leadership--activities){: style="color: #494E52"}
-* [<b>Contact Me</b>](#contact-me){: style="color: #494E52"}
-<!-- code_chunk_output -->
-  
+<p style="text-align: justify; text-justify: inter-ideograph;">As a passionate senior undergraduate at Zhejiang University, I am majoring in Electrical Engineering (EE/ECE), a field that has captivated my interest and dedication. Throughout my undergraduate journey, I have developed a deep fascination for <b>power electronics, power management circuits, analog/digital circuits, power systems, motor design & drive, and embedded systems</b>, areas where I've actively engaged through rigorous coursework and hands-on projects.</p>  
 
 - - -  
 
