@@ -76,6 +76,13 @@ Skills
 </blockquote>
 
 
+<blockquote>
+	  Language Proficiency:<br>
+	  TOEFL Overall 100 (Best Scores: 104)<br>
+	  Reading 29<br>
+
+</blockquote>
+  
 - - -  
 
 
