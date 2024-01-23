@@ -65,17 +65,26 @@ Skills
 ======
 
 * ### Programming Languages:
-  * C, VHDL, HTML, CSS, JavaScript, Python, Assembly;
-* ### Applications:
-  * Quartus II, Cadence OrCAD, JMAG, Ansys Maxwell, Multisim, MATLAB, CLion, VS Code, Webstorm;
-* ### Language Proficiency:
-  * TOEFL Overall 100 (Best Scores: 104).
-    * Reading 29.
-    * Listening 27.
-    * Speaking 24 (Best Scores: 25).
-    * Writing 20 (Best Scores: 23).
+<blockquote>
+	  C, VHDL, HTML, CSS, JavaScript, Python, Assembly;
+</blockquote>  
 
-- - -
+* ### Applications:
+<blockquote>
+	  C, VHDL, HTML, CSS, JavaScript, Python, Assembly;
+</blockquote>  
+  * Quartus II, Cadence OrCAD, JMAG, Ansys Maxwell, Multisim, MATLAB, CLion, VS Code, Webstorm;  
+  
+* ### Language Proficiency:
+<blockquote>
+	TOEFL Overall 100 (Best Scores: 104)<br>
+	Reading 29<br>
+	Listening 27<br>
+	Speaking 24 (Best Scores: 25)<br>
+	Writing 20 (Best Scores: 23)<br>
+</blockquote>  
+
+- - -  
 
 [Leadership & Activities](https://zijuncui02.github.io/leadership_activities/){: style="color: #494E52"}
 === 
