@@ -1,9 +1,9 @@
 ---
 title: "Thrust Force Ripple Reduction Techniques for Linear Permanent Magnet Synchronous Machine (LPMSM)"
 collection: research projects
-type: "A research project for thrust force ripple reduction techniques for LPMM/LPMSM"
+type: "A research on thrust force ripple reduction techniques for the LPMM/LPMSM"
 permalink: /research/project-1
-venue: "Zhejiang University, Micro and Special Motor Research Institute"
+venue: "Micro and Special Motor Research Institute, Zhejiang University"
 date: 2023-11-15
 location: "Hangzhou, China"
 ---
