@@ -23,7 +23,7 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Engineering in Electrical Engineering and Automation, [College of Electrical Engineering](http://ee.zju.edu.cn/englishee/main.htm) Zhejiang University, June 2024 (anticipated).
+* Bachelor of Engineering in Electrical Engineering and Automation, [College of Electrical Engineering](http://ee.zju.edu.cn/englishee/main.htm), Zhejiang University, June 2024 (anticipated).
 
 - - -  
 
