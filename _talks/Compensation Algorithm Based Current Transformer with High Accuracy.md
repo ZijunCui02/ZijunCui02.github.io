@@ -27,7 +27,6 @@ Summary
 - Completed the hardware prototype for current measurement in practical power converters, which verified the functionality of the compensation algorithm in improving the accuracy of current transformer.
 - Authored a comprehensive project paper on the project, which was highly commended in the final evaluation.
 
-[Download Project Paper](http://ZijunCui02.github.io/files/SRTP_Project_Paper.pdf)  
 
 - - -  
 
