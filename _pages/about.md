@@ -49,7 +49,7 @@ Education
 
  - ### Shanghai Sany Electronic Technology Co., Ltd | R&D Engineer
 <blockquote>
-	Led the design and prototype of the power management circuit and Played a key role in developing an electric mining protection system.
+	Led the design and prototype of the power management circuit and played a key role in developing an electric mining protection system.
 </blockquote>  
 
 [Awards & Honors](https://zijuncui02.github.io/awards_honors/){: style="color: #494E52"}  
