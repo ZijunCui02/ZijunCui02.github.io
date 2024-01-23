@@ -82,9 +82,10 @@ Skills
 	  Listening 27<br>
 	  Speaking 24 (Best Scores: 25)<br>
 	  Writing 20 (Best Scores: 23)<be>
-</blockquote>  
-		  
+</blockquote>    
+
 - - -  
+
 
 [Leadership & Activities](https://zijuncui02.github.io/leadership_activities/){: style="color: #494E52"}
 === 
