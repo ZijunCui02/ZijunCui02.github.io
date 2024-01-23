@@ -28,9 +28,8 @@ As a passionate senior undergraduate at Zhejiang University, I am majoring in El
 
 {% include base_path %}
 
-CV
-======
-[<b>Download CV</b>](http://ZijunCui02.github.io/files/CV_Zijun_Cui_1.16.pdf)
+<div style="display:none">CV======[<b>Download CV</b>](http://ZijunCui02.github.io/files/CV_Zijun_Cui_1.16.pdf)</div>
+
 
 Education
 ======
