@@ -4,7 +4,7 @@ collection: research projects
 type: "A research project"
 permalink: /research/project-1
 venue: "Zhejiang University, Micro and Special Motor Research Institute"
-date: 2023-10-15
+date: 2023-11-15
 location: "Hangzhou, China"
 ---
 
