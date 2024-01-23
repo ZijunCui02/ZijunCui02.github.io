@@ -3,7 +3,7 @@ title: "Compensation Algorithm Based Current Transformer with High Accuracy"
 collection: research projects
 type: "A research project for the high-accuracy current transformer"
 permalink: /research/project-4
-venue: "Zhejiang University, Power Electronics and Power Conversion Research Institute "
+venue: "Power Electronics and Power Conversion Research Institute, Zhejiang University"
 date: 2022-03-15
 location: "Hangzhou, China"
 ---  
