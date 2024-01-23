@@ -1,7 +1,7 @@
 ---
 title: "Influence of Split Teeth on the Performance of Linear Permanent Magnet Vernier Motor"
 collection: research projects
-type: "A project for the performance improvement of novel linear permanent magnet machines (LPMMs)"
+type: "A research on the performance improvement of novel linear permanent magnet machines (LPMMs)"
 permalink: /research/project-2
 venue: "Micro and Special Motor Research Institute, Zhejiang University"
 date: 2023-6-28
