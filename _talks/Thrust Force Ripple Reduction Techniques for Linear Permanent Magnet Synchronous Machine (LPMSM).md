@@ -21,15 +21,12 @@ Introduction
 
 <p style = "text-align:justify; text-justify:inter-ideograph;"> With the increasing demand for precision machining technology in China, there is an urgent need to develop high-precision linear permanent magnet motors, especially products that can operate smoothly under various working conditions with minimal thrust fluctuations. This project focuses on a comparative study of thrust fluctuation suppression techniques for the widely used linear flat plate surface-mounted permanent magnet motors. Finite element software is utilized to simulate and compare different structural optimization methods aimed at reducing thrust fluctuations. The study provides guidance for the application of linear permanent magnet motors in high-precision scenarios. </p>
 
-Summary
+Research Approach
 ===
-- Conducted a comprehensive analysis of thrust force ripple reduction methods in LPMSMs, synthesizing existing literature into a detailed report that critiques various approaches and their limitations.
-- Currently engaging in advanced finite element analysis to evaluate and improve these methods under varied operational conditions, aiming to develop an optimized technique for reducing thrust force ripple in LPMSMs.
+- <p style = "text-align:justify; text-justify:inter-ideograph;"> Conducted a comprehensive analysis of thrust force ripple reduction methods in LPMSMs, synthesizing existing literature into a detailed report that critiques various approaches and their limitations.</p>
+- <p style = "text-align:justify; text-justify:inter-ideograph;"> Currently engaging in advanced finite element analysis to evaluate and improve these methods under varied operational conditions, aiming to develop an optimized technique for reducing thrust force ripple in LPMSMs.</p>  
 
-  
 - - -  
-
-
 
 
 ![TF_Ripple3](/images/TF_Ripple3.PNG)  
