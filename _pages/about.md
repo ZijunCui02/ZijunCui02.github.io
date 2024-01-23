@@ -76,10 +76,10 @@ Skills
   
 * <blockquote>
 	  Language Proficiency:
-	  TOEFL Overall 100 (Best Scores: 104)<be>
-	  Reading 29<be>
-	  Listening 27<be>
-	  Speaking 24 (Best Scores: 25)<be>
+	  TOEFL Overall 100 (Best Scores: 104)<br>
+	  Reading 29<br>
+	  Listening 27<br>
+	  Speaking 24 (Best Scores: 25)<br>
 	  Writing 20 (Best Scores: 23)<br>
 </blockquote>  
 
