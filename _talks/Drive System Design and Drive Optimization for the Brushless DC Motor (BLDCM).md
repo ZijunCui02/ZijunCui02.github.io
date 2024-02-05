@@ -21,6 +21,8 @@ Research Approach
 - Prototyped the entire system on a PCB, tested it experimentally, and verified the realization of the expected functions.
 - Designed and compared various starting, driving, and speed control strategies for the Brushless DC Motor (BLDCM).
 
+- - -  
+
 How it works
 ===  
 
@@ -58,6 +60,8 @@ Three-Phase Six-State BLDC Motor Control System Principle Diagram
 ![Figure3](/images/Figure3.png)  
 
 <p style = "text-align:justify; text-justify:inter-ideograph;"> The control system's principle diagram, as shown in Figure 3, depicts the process where three-phase Hall signals are fed into a GAL (Generic Array Logic) chip, along with an external clock input. The GAL chip processes the position information and, based on digital logic expressions, outputs power transistor gating signals based on the position signal processing circuit. These gating signals are then superimposed with an externally input PWM (Pulse Width Modulation) signal to form the final power transistor gating signals. These signals, provided by the GAL chip, are sent to a driving isolation circuit and finally to a three-phase bridge power main circuit.</p>  
+
+- - -  
 
   
 System and Module Circuit Diagrams  
@@ -97,12 +101,15 @@ The internal combinational logic of a GAL (Generic Array Logic) chip.
 
 ![TPPMC](/images/TPPMC.png)  
 
+- - -  
 
   
 Prototype
 ===  
 
 ![Prototype_](/images/Prototype_.png)  
+
+- - -  
 
 
 Control strategies implemented by CPLD
@@ -112,4 +119,5 @@ Control strategies implemented by CPLD
 - Soft start
 - Brake control
 
-
+- - -
+  
