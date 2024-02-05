@@ -55,6 +55,8 @@ Three-Phase Six-State Conduction Schematic
 Three-Phase Six-State BLDC Motor Control System Principle Diagram  
 ---  
 
+![Figure3](/images/Figure3.png)  
+
 <p style = "text-align:justify; text-justify:inter-ideograph;"> The control system's principle diagram, as shown in Figure 3, depicts the process where three-phase Hall signals are fed into a GAL (Generic Array Logic) chip, along with an external clock input. The GAL chip processes the position information and, based on digital logic expressions, outputs power transistor gating signals based on the position signal processing circuit. These gating signals are then superimposed with an externally input PWM (Pulse Width Modulation) signal to form the final power transistor gating signals. These signals, provided by the GAL chip, are sent to a driving isolation circuit and finally to a three-phase bridge power main circuit.</p>  
 
   
@@ -69,13 +71,19 @@ System and Module Circuit Diagrams
 <p align="center">
   <img src="/images/PWM.png" width="350">
 </p>
+  
+Outputting PWM (Pulse Width Modulation) waveforms with different duty cycles.  
 
 ![PWM_ZKB](/images/PWM_ZKB.png)  
+
+Outputting the FFT (Fast Fourier Transform) image of a PWM signal.  
 
 ![PWM_FFT](/images/PWM_FFT.png)  
 
 - GAL Chip and Its Circuit
-  
+
+The internal combinational logic of a GAL (Generic Array Logic) chip.  
+
 <p align="center">
   <img src="/images/GAL.png" width="350">
 </p>
@@ -96,5 +104,12 @@ Prototype
 
 ![Prototype_](/images/Prototype_.png)  
 
+
+Control strategies implemented by CPLD
+===  
+- Forward and reverse control
+- Speed adjustment
+- Soft start
+- Brake control
 
 
