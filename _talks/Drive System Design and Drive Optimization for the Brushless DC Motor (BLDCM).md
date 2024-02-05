@@ -128,14 +128,6 @@ Example: Chopped-Soft-Starter
 
 <b>Basic Approcah</b>  
 
-<pre><code style="white-space: pre-wrap;">
-library ieee;
-use ieee.std_logic_1164.all;
-use ieee.std_logic_arith.all;
-use ieee.std_logic_unsigned.all;
-
-</code></pre>
-
 ```VHDL
 library ieee;
 use ieee.std_logic_1164.all;
