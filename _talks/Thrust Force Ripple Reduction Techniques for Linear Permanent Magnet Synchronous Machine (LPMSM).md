@@ -33,3 +33,5 @@ Research Approach
 - - -  
 ![TF_Ripple4](/images/TF_Ripple4.png)  
 
+  
+![TF_Ripple5](/images/TF_Ripple5.png)  
