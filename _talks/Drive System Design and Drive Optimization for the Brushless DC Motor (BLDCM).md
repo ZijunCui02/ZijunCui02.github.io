@@ -46,8 +46,8 @@ Three-Phase Six-State Conduction Schematic
 ---  
 <p style = "text-align:justify; text-justify:inter-ideograph;"> The schematic of the three-phase six-state conduction, shown in Figure 2, depicts ABC three phases each producing a three-step wave. The conduction timing sequence for forward conduction, reverse conduction, and non-conduction is 1:1:1. The conduction follows a cyclic sequence of A+B- → A+C- → B+C- → B+A- → C+A- → C+B- → A+B-, across one electrical cycle (360 electrical degrees), encompassing six magnetic states. Each magnetic state lasts for 60 electrical degrees, and the winding current is bidirectional.</p>  
 
-
 ![Figure2](/images/Figure2.png)  
+
 
 <p style = "text-align:justify; text-justify:inter-ideograph;"> This description outlines the fundamental operating principle of the commutation process in brushless DC motors, highlighting how the precise timing and sequence of phase conduction are critical for the efficient and controlled rotation of the motor.</p>  
 
