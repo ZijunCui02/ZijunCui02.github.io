@@ -56,18 +56,26 @@ The control system's principle diagram, as shown in Figure 3, depicts the proces
   
 System and Module Circuit Diagrams  
 ===  
+- System circuit diagram
 
+![System](/images/System.png)  
+  
 - PWM Generation Module
   
-![PWM](/images/PWM.png)  
+<p align="center">
+  <img src="/images/PWM.png" width="350">
+</p>
 
 ![PWM_ZKB](/images/PWM_ZKB.png)  
 
 ![PWM_FFT](/images/PWM_FFT.png)  
 
 - GAL Chip and Its Circuit
+  
+<p align="center">
+  <img src="/images/GAL.png" width="350">
+</p>
 
-![GAL](/images/GAL.png)  
 
 - IR2136 and Its Circuit
 
