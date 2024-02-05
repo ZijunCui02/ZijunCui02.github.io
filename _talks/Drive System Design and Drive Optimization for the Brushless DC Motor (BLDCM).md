@@ -55,7 +55,7 @@ Three-Phase Six-State Conduction Schematic
 
 Three-Phase Six-State BLDC Motor Control System Principle Diagram  
 ---  
-![Figure3](/images/Figure3.png)  
+![Figure_3](/images/Figure_3.png)  
 
 
 
