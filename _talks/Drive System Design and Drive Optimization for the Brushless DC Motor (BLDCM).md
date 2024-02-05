@@ -23,7 +23,8 @@ Research Approach
 
 How it works
 ===  
-Introduction 
+
+Introduction  
 ---  
 
 The brushless DC motor is a type of synchronous motor, which includes three main components in its drive system: the power supply, control unit, and the motor itself. In a brushless DC motor, the armature winding is located on the stator, while the magnets are mounted on the rotor for rotation. The commutator is fixed on the stator, and both the magnets and brushes rotate, maintaining a constant relative position, controlled by the armature current.  
@@ -54,19 +55,33 @@ Three-Phase Six-State BLDC Motor Control System Principle Diagram
 The control system's principle diagram, as shown in Figure 3, depicts the process where three-phase Hall signals are fed into a GAL (Generic Array Logic) chip, along with an external clock input. The GAL chip processes the position information and, based on digital logic expressions, outputs power transistor gating signals based on the position signal processing circuit. These gating signals are then superimposed with an externally input PWM (Pulse Width Modulation) signal to form the final power transistor gating signals. These signals, provided by the GAL chip, are sent to a driving isolation circuit and finally to a three-phase bridge power main circuit.
   
 System and Module Circuit Diagrams  
----  
+===  
 
 - PWM Generation Module
+  
+![PWM](/images/PWM.png)  
+
+![PWM_ZKB](/images/PWM_ZKB.png)  
+
+![PWM_FFT](/images/PWM_FFT.png)  
 
 - GAL Chip and Its Circuit
 
+![GAL](/images/GAL.png)  
+
 - IR2136 and Its Circuit
+
+![IR2136](/images/IR2136.png)  
 
 - Three-Phase Power Main Circuit
 
+![TPPMC](/images/TPPMC.png)  
 
 
+Prototype
+===  
 
+![Prototype_](/images/Prototype_.png)  
 
 
 
