@@ -44,17 +44,19 @@ Three-Phase Six-State Commutation Process
 
 Three-Phase Six-State Conduction Schematic  
 ---  
-The schematic of the three-phase six-state conduction, shown in Figure 2, depicts ABC three phases each producing a three-step wave. The conduction timing sequence for forward conduction, reverse conduction, and non-conduction is 1:1:1. The conduction follows a cyclic sequence of A+B- → A+C- → B+C- → B+A- → C+A- → C+B- → A+B-, across one electrical cycle (360 electrical degrees), encompassing six magnetic states. Each magnetic state lasts for 60 electrical degrees, and the winding current is bidirectional.
+<p style = "text-align:justify; text-justify:inter-ideograph;"> The schematic of the three-phase six-state conduction, shown in Figure 2, depicts ABC three phases each producing a three-step wave. The conduction timing sequence for forward conduction, reverse conduction, and non-conduction is 1:1:1. The conduction follows a cyclic sequence of A+B- → A+C- → B+C- → B+A- → C+A- → C+B- → A+B-, across one electrical cycle (360 electrical degrees), encompassing six magnetic states. Each magnetic state lasts for 60 electrical degrees, and the winding current is bidirectional.</p>  
 
 
 ![Figure2](/images/Figure2.png)  
 
-This description outlines the fundamental operating principle of the commutation process in brushless DC motors, highlighting how the precise timing and sequence of phase conduction are critical for the efficient and controlled rotation of the motor.  
+<p style = "text-align:justify; text-justify:inter-ideograph;"> This description outlines the fundamental operating principle of the commutation process in brushless DC motors, highlighting how the precise timing and sequence of phase conduction are critical for the efficient and controlled rotation of the motor.</p>  
+
 
 Three-Phase Six-State BLDC Motor Control System Principle Diagram  
 ---  
 
-The control system's principle diagram, as shown in Figure 3, depicts the process where three-phase Hall signals are fed into a GAL (Generic Array Logic) chip, along with an external clock input. The GAL chip processes the position information and, based on digital logic expressions, outputs power transistor gating signals based on the position signal processing circuit. These gating signals are then superimposed with an externally input PWM (Pulse Width Modulation) signal to form the final power transistor gating signals. These signals, provided by the GAL chip, are sent to a driving isolation circuit and finally to a three-phase bridge power main circuit.
+<p style = "text-align:justify; text-justify:inter-ideograph;"> The control system's principle diagram, as shown in Figure 3, depicts the process where three-phase Hall signals are fed into a GAL (Generic Array Logic) chip, along with an external clock input. The GAL chip processes the position information and, based on digital logic expressions, outputs power transistor gating signals based on the position signal processing circuit. These gating signals are then superimposed with an externally input PWM (Pulse Width Modulation) signal to form the final power transistor gating signals. These signals, provided by the GAL chip, are sent to a driving isolation circuit and finally to a three-phase bridge power main circuit.</p>  
+
   
 System and Module Circuit Diagrams  
 ===  
