@@ -119,10 +119,12 @@ Control strategies implemented by CPLD
 - Soft start
 - Brake control
 
-Example--soft start
+Example: Chopped-Soft-Starter
 ---  
 
-```vhdl
+<b>Basic Approcah</b>  
+
+<pre><code style="white-space: pre-wrap;">
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.std_logic_arith.all;
@@ -165,7 +167,7 @@ begin
         T6 <= not (pwm_sig and (HC and (not HB)));
     end process;
 end demo_architecture;
-
+</code></pre>
 
 - - -
   
