@@ -119,5 +119,53 @@ Control strategies implemented by CPLD
 - Soft start
 - Brake control
 
+Example--soft start
+---  
+
+```vhdl
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.std_logic_arith.all;
+use ieee.std_logic_unsigned.all;
+
+entity demo is
+    port(clk: in std_logic;
+         HA, HB, HC: in std_logic;
+         T1, T2, T3, T4, T5, T6: out std_logic);
+end;
+
+architecture demo_architecture of demo is
+    signal pwm_sig: std_logic := '1';
+begin
+    process(clk, HA, HB, HC)
+    variable count: std_logic_vector(10 downto 0) := "00000000000";
+    variable k: std_logic_vector(10 downto 0) := "00000000000";
+    variable clock: std_logic_vector(4 downto 0) := "00000";
+    begin
+        if (clk'event) and (clk = '1') then
+            count := count + 1;
+            if(count <= k) then
+                pwm_sig <= '1';
+            elsif count < 2000 then
+                pwm_sig <= '0';
+            else
+                clock := clock + 1;
+                count := "00000000000";
+            end if;
+            if(clock > 30) then
+                k := k + 1;
+                clock := "00000";
+            end if;
+        end if;
+        T1 <= not (pwm_sig and (HA and (not HB)));
+        T2 <= not (pwm_sig and (HA and (not HC)));
+        T3 <= not (pwm_sig and (HB and (not HC)));
+        T4 <= not (pwm_sig and (HB and (not HA)));
+        T5 <= not (pwm_sig and (HC and (not HA)));
+        T6 <= not (pwm_sig and (HC and (not HB)));
+    end process;
+end demo_architecture;
+
+
 - - -
   
