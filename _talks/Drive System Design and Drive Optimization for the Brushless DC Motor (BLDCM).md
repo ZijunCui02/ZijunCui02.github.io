@@ -1,4 +1,4 @@
-![图片](https://github.com/ZijunCui02/ZijunCui02.github.io/assets/154246388/fd10530a-8406-4b48-9f02-e180ba66bb2e)---
+---
 title: "Drive System Design and Drive Optimization for the Brushless DC Motor (BLDCM)"
 collection: research projects
 type: "A research on the design of drive system for BLDCM and drive optimization"
