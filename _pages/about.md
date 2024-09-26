@@ -14,8 +14,19 @@ redirect_from:
 
 <p style="text-align: justify; text-justify: inter-ideograph;">  I am a passionate new MSEE student @University of Washington looking for research opportunities. My research interests include Computer Vsion, Computer Graphics, and Robotics.
 
-(up to April 2024) 
+(up to April 2024)    
 
+   
+Contact Me:
+=== 
+
+***Email:*** *[zijun@zju.edu.cn](mailto:zijun@zju.edu.cn/)*  
+&emsp;&emsp;&emsp; *[cuizijun02@163.com](mailto:cuizijun02@163.com/)*  
+***Phone:*** *(+86) 17300989068* 
+
+- - -   
+   
+   
 - - -  
 
 {% include base_path %}
@@ -112,14 +123,5 @@ Leadership & Activities
 Join Me on My Journey
 ===  
 <p style = "text-align:justify; text-justify:inter-ideograph;">As I look forward to starting my graduate studies, I invite you to explore this website to learn more about my projects, research interests, and academic achievements. I want you to know that your insights, advice, and opportunities for collaboration are always welcome.   </p>  
-
-- - -  
-
-Contact Me:
-=== 
-
-***Email:*** *[zijun@zju.edu.cn](mailto:zijun@zju.edu.cn/)*  
-&emsp;&emsp;&emsp; *[cuizijun02@163.com](mailto:cuizijun02@163.com/)*  
-***Phone:*** *(+86) 17300989068* 
 
 - - -  
