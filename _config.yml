@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zijun Cui"
   avatar           : "Zijun_Cui_2.jpg"
-  bio              : "A senior undergraduate in Electrical Engineering at Zhejiang University, with a deep interest in pursuing research opportunities."
-  location         : "Hangzhou, China"
-  employer         : "Zhejiang University"
+  bio              : "MSEE, CV CG Robotics"
+  location         : "Seattle, WA"
+  employer         : "University of Washington"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "zijun@zju.edu.cn"
+  email            : "zijuncui@uw.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ZijunCui02"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
