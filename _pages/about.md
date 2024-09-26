@@ -118,8 +118,8 @@ Join Me on My Journey
 Contact Me:
 === 
 
-***Email:*** *[zijun@zju.edu.cn](mailto:zijun@zju.edu.cn/)*  
-&emsp;&emsp;&emsp; *[cuizijun02@163.com](mailto:cuizijun02@163.com/)*  
-***Phone:*** *(+86) 17300989068* 
+***Email:*** *[zijuncui@uw.edu](mailto:zijuncui@uw.edu/)*  
+&emsp;&emsp;&emsp; *[zijun@zju.edu.cn](mailto:zijun@zju.edu.cn/)*  
+***Phone:*** *(206)734-1505* 
 
 - - -  
