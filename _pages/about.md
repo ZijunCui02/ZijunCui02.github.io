@@ -77,21 +77,21 @@ Skills
 
 <blockquote>
 	  <b>Programming Languages:</b><br>
-	  C, VHDL, HTML, CSS, JavaScript, Python, Assembly;
+	  Python, C, Java, C++;
 </blockquote>
 
 <blockquote>
 	  <b>Applications:</b><br>
-	  Quartus II, Cadence OrCAD, JMAG, Ansys Maxwell, Multisim, MATLAB, CLion, VS Code, Webstorm;
+	  VS Code, Unity, MATLAB, CLion; Quartus II, Cadence OrCAD, JMAG, Ansys Maxwell, Multisim;
 </blockquote>
 
 <blockquote>
 	  <b>Language Proficiency:</b><br>
-	  TOEFL Overall 100 (Best Scores: 104)<br>
+	  TOEFL 104<br>
 	  Reading 29<br>
 	  Listening 27<br>
-	  Speaking 24 (Best Scores: 25)<br>
-	  Writing 20 (Best Scores: 23)<br>
+	  Speaking 25<br>
+	  Writing 23<br>
 </blockquote>
 
 - - -  
