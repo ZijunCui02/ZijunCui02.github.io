@@ -1,19 +1,19 @@
 ---
-title: "Compensation Algorithm Based Current Transformer with High Accuracy"
+title: "Physics-Constrained Self-Supervised Learning for Robust Neural Motion Planning with Shape-Aware Distance Function"
 collection: research projects
-type: "A research project for the high-accuracy current transformer"
+type: "A research project for route planning using PC-Planner"
 permalink: /research/project-4
-venue: "Power Electronics and Power Conversion Research Institute, Zhejiang University"
-date: 2022-03-15
+venue: "State Key Laboratory of CAD&CG, Zhejiang University"
+date: 2024-04-15
 location: "Hangzhou, China"
 ---  
 
 
-*<font size=4>Advisor:</font> [<font size=4>Taiying Zheng</font>](https://person.zju.edu.cn/en/0013178)<font size=4>, Associate Professor, College of Electrical Engineering, Zhejiang University</font>*  
+*<font size=4>Advisor:</font> [<font size=4>Zhaopeng Cui</font>](https://zhpcui.github.io/)<font size=4>, Research Professor, College of Computer Science, Zhejiang University</font>*  
 
 
     
-*December. 2022 - March. 2023*  
+*Apr. 2024 - Aug. 2024*  
 
 - - -
 
@@ -21,11 +21,11 @@ Research Approach
 ===
 
   
-- Proposed the current compensation algorithm and the current transformer, targeting high-accuracy measurements, robust protection, and digital output.
-- Programmed magnetic hysteresis fitting and current compensation algorithms using a Keil 4 microprocessor in C and implemented data processing on STM32 microcontrollers.
-- Conducted Simulink simulations and system-level optimizations, significantly improving current measurement accuracy.
-- Completed the hardware prototype for current measurement in practical power converters, which verified the functionality of the compensation algorithm in improving the accuracy of current transformer.
-- Authored a comprehensive project paper on the project, which was highly commended in the final evaluation.
+- 参与introduce a novel physics-constrained planner, which learns the time fields and execute motion planning for robots of various shapes from any start state to any goal state in a self-supervised manner.
+- Utilized/ Proposed several physical constraints to enable the network to jump out of local minima and converge to the correct solutions that obey the physical rules.
+- We develop a new neural shape-aware distance field for collision checking that can predict the minimum distance to the environment for any robot with arbitrary shapes and configurations in the fixed environment, which facilitates both self-supervised training and test stages.
+- Participated in composing a conference paper (in 修改).
+
 
 
 - - -  
