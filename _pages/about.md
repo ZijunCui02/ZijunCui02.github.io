@@ -16,17 +16,6 @@ redirect_from:
 
 (up to April 2024)    
 
-     
-Contact Me:   
-
-=== 
-
-***Email:*** *[zijun@zju.edu.cn](mailto:zijun@zju.edu.cn/)*  
-&emsp;&emsp;&emsp; *[zijuncui@uw.edu](mailto:zijuncui@uw.edu/)*  
-***Phone:*** *(+86) 17300989068* 
-
-- - -   
-   
    
 - - -  
 
@@ -126,3 +115,15 @@ Join Me on My Journey
 <p style = "text-align:justify; text-justify:inter-ideograph;">As I look forward to starting my graduate studies, I invite you to explore this website to learn more about my projects, research interests, and academic achievements. I want you to know that your insights, advice, and opportunities for collaboration are always welcome.   </p>  
 
 - - -  
+
+     
+Contact Me:   
+
+=== 
+
+***Email:*** *[zijun@zju.edu.cn](mailto:zijun@zju.edu.cn/)*  
+&emsp;&emsp;&emsp; *[zijuncui@uw.edu](mailto:zijuncui@uw.edu/)*  
+***Phone:*** * +1 (206) 734-1505* 
+
+- - -   
+   
