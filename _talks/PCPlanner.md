@@ -7,8 +7,6 @@ venue: "State Key Laboratory of CAD&CG, Zhejiang University"
 date: 2024-04-10
 location: "Hangzhou, China"
 ---
-PC-Planner: Physics-Constrained Self-Supervised Learning for Robust Neural Motion Planning with Shape-Aware Distance Function
-
 *<font size=4>Advisor:</font> [<font size=4>Zhaopeng Cui</font>](https://zhpcui.github.io/)<font size=4>, Professor, College of Computer Science, Zhejiang University</font>*   
 
 *April, 2024 - September, 2024.*  
