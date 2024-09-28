@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-<p>I am a passionate first-year master student in Elctrical and Computer Engineering at University of Washington looking for research opportunities. My research interests include Robotics and Computer Vision.</p>
+<p>I am a passionate first-year Master student in Elctrical and Computer Engineering at University of Washington looking for research opportunities. My research interests include Robotics and Computer Vision.</p>
 
 
 (Page to be furbished) 
@@ -67,9 +67,10 @@ Internship Experiences
 Awards & Honors
 ===
 
-- Excellent Student Cadre of Zhejiang University, Jun. 2021
-- Excellent Student Leadership Award of Zhejiang University, Oct. 2021
-- Student Leadership Award of Zhejiang University, Jun. 2022
+- Academic Excellent Award, at Zhejiang University, Oct. 2021
+- Excellent Student Cadre, at Zhejiang University, Jun. 2021
+- Excellent Student Leadership Award, at Zhejiang University, Oct. 2022
+- Student Leadership Award, at Zhejiang University, Jun. 2022
 
 - - -  
 
