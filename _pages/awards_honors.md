@@ -1,7 +1,7 @@
 ---
 permalink: /awards_honors/
 title: "Awards & Honors"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /md/
   - /markdown.html
