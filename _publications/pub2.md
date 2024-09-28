@@ -1,6 +1,6 @@
 ---
 title: "Physics-Constrained Self-Supervised Learning for Robust Neural Motion Planning with Shape-Aware Distance Function"
-type:
+type:"under_revision"
 collection: publications
 permalink: /publication/2024-paper-2
 excerpt: 'Robot neural motion planning'
@@ -10,7 +10,7 @@ location:
 paperurl:
 ---
 
-*<font size=4>Advisors:</font> [<font size=4>Yanxin Li</font>](https://person.zju.edu.cn/en/EElyx)<font size=4>, Professor, </font> [<font size=4>Qinfen Lu</font>](https://person.zju.edu.cn/en/qflu)<font size=4>, IET Fellow, IEEE Senior Member, Professor, Micro and Special Motor Institute, College of Electrical Engineering, Zhejiang University</font>*   
+*<font size=4>Advisors:</font> [<font size=4>Yanxin Li</font>](https://person.zju.edu.cn/en/EElyx)<font size=4>, Micro and Special Motor Institute, College of Electrical Engineering, Zhejiang University</font>*   
 
 
 Abstract
