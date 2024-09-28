@@ -57,7 +57,7 @@ Internship Experiences
  - [<font size=4><b>Shanghai Sany Electronic Technology Co., Ltd, R&D Engineer</b></font>](https://zijuncui02.github.io/internship_experiences/)
 
 <blockquote>
-	Led the design and prototype of the power management circuit and played a key role in developing an electric mining protection system.
+	Participated in the design and prototype of the power management circuit and played a key role in developing an electric mining protection system.
 </blockquote>  
 
 - - -  
@@ -96,18 +96,6 @@ Skills
 
 - - -  
 
-Leadership & Activities
-=== 
-
-- [Student President at Class of Electrical Engineering and Automation](https://zijuncui02.github.io/portfolio/1Student%20Predisent/)
-
-- [Musical *Dear Evan Hansen* at Lingyun Musical Club, *2021*](https://zijuncui02.github.io/portfolio/2Musical1/)
-
-- [Musical *GALA* at Lingyun Musical Club, *2022*](https://zijuncui02.github.io/portfolio/3Musical2/)
-
-- [Drama *Stars & Earth* at Aesthetic Education Center, *2022*](https://zijuncui02.github.io/portfolio/4Drama1/)
-
-- - -  
 
 Join Me on My Journey
 ===  
