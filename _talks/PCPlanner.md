@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/036854c5-c6c6-4175-8901-b8adbd8248fe)![image](https://github.com/user-attachments/assets/3f13b376-5274-4299-8a82-a658325e176d)![image](https://github.com/user-attachments/assets/d58efe76-fd82-40ef-bbfe-3e542301b285)---
+---
 title: "PC-Planner: Physics-Constrained Self-Supervised Learning for Robust Neural Motion Planning with Shape-Aware Distance Function"
 collection: talks
 type: "A research on the design of drive system for BLDCM and drive optimization"
