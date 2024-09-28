@@ -3,7 +3,7 @@ title: "Influence of Split Teeth on the Performance of Linear Permanent Magnet V
 type: "Presented"
 collection: publications
 permalink: /publication/2023-6-28-paper-1
-excerpt: 'Performance Improvement of a Novel Linear Permanent Magnet Motor (LPMM).'
+excerpt: 'Performance improvement of a novel linear permanent magnet motor'
 date: 28-30 June 2023
 venue: 'International Symposium on Linear Drivers for Industry Applications (LDIA)'
 location: "Hannover, Germany"
