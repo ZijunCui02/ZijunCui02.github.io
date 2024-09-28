@@ -2,7 +2,7 @@
 title: "Multi-function Digital Clock Based on Microcomputer, Team Leader"
 collection: teaching
 type: "A Microcomputer & DSP Intern Project"
-permalink: /course_projects/proj-3
+permalink: /capstone_project/proj-3
 venue: "Zhejiang University, College of Electrical Engineering"
 date: 2023-3-05
 location: "Hangzhou, China"
