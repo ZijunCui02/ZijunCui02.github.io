@@ -15,8 +15,7 @@ Unity3D VR Game Design — "Infinite Liberty"
 
 - - -  
 
-<iframe width="560" height="315" src="https://youtu.be/dLDUX4J_KNg?si=VJ-JRpW5KD9kUDRs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dLDUX4J_KNg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Abstract
 ===  
