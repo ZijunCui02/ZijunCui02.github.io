@@ -1,5 +1,5 @@
 ---
-title: "Unity3D VR Game Design — "Infinite Liberty""
+title: "Unity3D VR Game Design — Infinite Liberty"
 collection: talks
 type: "A research on the design of drive system for BLDCM and drive optimization"
 permalink: /research_projects/2
