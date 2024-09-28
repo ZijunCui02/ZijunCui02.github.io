@@ -3,15 +3,15 @@ title: "PC-Planner: Physics-Constrained Self-Supervised Learning for Robust Neur
 collection: talks
 type: "A research on the design of drive system for BLDCM and drive optimization"
 permalink: /research_projects/1
-venue: "Micro and Special Motor Research Institute, Zhejiang University"
-date: 2023-04-10
+venue: "State Key Laboratory of CAD&CG, Zhejiang University"
+date: 2024-04-10
 location: "Hangzhou, China"
 ---
 PC-Planner: Physics-Constrained Self-Supervised Learning for Robust Neural Motion Planning with Shape-Aware Distance Function
 
 *<font size=4>Advisors:</font> [<font size=4>Zhaopeng Cui</font>](https://zhpcui.github.io/)<font size=4>, Professor, College of Computer Science, Zhejiang University</font>*   
 
-*April, 2023 - July, 2023.*  
+*April, 2024 - September, 2024.*  
 
 - - -  
 
