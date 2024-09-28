@@ -2,7 +2,7 @@
 title: "Signal Generator & FPGA-based Digital Frequency Meter, Team Leader"
 collection: teaching
 type: "A Electrical Engineering Intern Project"
-permalink: /capstone_project/proj-2
+permalink: /capstone_projects/proj-2
 venue: "Zhejiang University, College of Electrical Engineering"
 date: 2022-06-15
 location: "Hangzhou, China"
