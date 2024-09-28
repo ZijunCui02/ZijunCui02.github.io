@@ -10,11 +10,11 @@ main:
   - title: "Course Projects"
     url: /course projects/    
 
-  - title: "Internship Experiences"
-    url: /internship_experiences/
+#- title: "Internship Experiences"
+#  url: /internship_experiences/
 
-  - title: "Awards"
-    url: /awards_honors/
+#  - title: "Awards"
+#   url: /awards_honors/
     
   - title: "Leadership & Activities"
     url: /leadership_activities/
