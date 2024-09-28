@@ -12,7 +12,7 @@ location: "Hangzhou, China"
 
 
   
-*October, 2023 - Present.*  
+*October, 2023 - April, 2024*  
 
 - - -  
 
