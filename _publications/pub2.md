@@ -23,5 +23,3 @@ Abstract
 - <p style = "text-align:justify; text-justify:inter-ideograph;">Co-authored a conference paper (under revision).</p>
 
 - - -  
-  
-[Download paper here](http://ZijunCui02.github.io/files/Influence_of_Split_Teeth_on_the_Performance_of_Linear_Permanent_Magnet_Vernier_Motor.pdf)  
