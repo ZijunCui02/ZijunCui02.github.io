@@ -24,8 +24,9 @@ I am a passionate first-year Master student in Electrical and Computer Engineeri
 
 Education
 ======
-* Bachelor of Engineering in Electrical Engineering and Automation, [College of Electrical Engineering](http://ee.zju.edu.cn/englishee/main.htm), Zhejiang University, July 2024.
-
+* Master of Science, Electrical, College of Electrical and Computer Engineering, University of Washington, September 2024 - July 2026.
+* Bachelor of Engineering, Electrical Engineering and Automation, [College of Electrical Engineering](http://ee.zju.edu.cn/englishee/main.htm), Zhejiang University, July 2024.
+  
 - - -  
 
 Publications
