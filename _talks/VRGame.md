@@ -9,7 +9,7 @@ location: "Hangzhou, China"
 ---
 Unity3D VR Game Design — "Infinite Liberty"  
 
-*<font size=4>Advisors:</font> [<font size=4>Zhaopeng Cui</font>](https://zhpcui.github.io/)<font size=4>, Professor, College of Computer Science, Zhejiang University</font>*   
+*<font size=4>Advisor:</font> [<font size=4>Zhaopeng Cui</font>](https://zhpcui.github.io/)<font size=4>, Professor, College of Computer Science, Zhejiang University</font>*   
 
 *April, 2024 - July, 2024*  
 
