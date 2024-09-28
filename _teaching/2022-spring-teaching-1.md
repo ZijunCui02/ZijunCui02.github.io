@@ -2,7 +2,7 @@
 title: "Audio Amplifier Design, Team Leader"
 collection: teaching
 type: "An Analog Electronics Research Project"
-permalink: /course_projects/proj-1
+permalink: /capstone_project/proj-1
 venue: "Zhejiang University, College of Electrical Engineering"
 date: 2022-04-25
 location: "Hangzhou, China"
