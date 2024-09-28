@@ -3,7 +3,7 @@ title: "Drive System Design and Drive Optimization for the Brushless DC Motor (B
 collection: talks
 type: "A research on the design of drive system for BLDCM and drive optimization"
 permalink: /research_projects/4
-venue: "Micro and Special Motor Research Institute, Zhejiang University"
+venue: "Electrical Machines and Drive Techniques Research Institute, Zhejiang University"
 date: 2023-08-12
 location: "Hangzhou, China"
 ---
