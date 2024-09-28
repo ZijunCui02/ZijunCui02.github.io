@@ -17,8 +17,6 @@ Unity3D VR Game Design — "Infinite Liberty"
 
 
 
-
-
 Abstract
 ===  
 
