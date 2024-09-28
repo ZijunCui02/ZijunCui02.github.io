@@ -1,16 +1,16 @@
 ---
-title: "Physics-Constrained Self-Supervised Learning for Robust Neural Motion Planning with Shape-Aware Distance Function"
+title: "Physics-Constrained Self-Supervised Learning for Robust Neural Motion Planning with Shape-Aware Distance Function (under revision)"
 type:
 collection: publications
 permalink: /publication/2024-paper-2
 excerpt: 'Robot neural motion planning'
-date: 28-30 Augst 2024
+date: 15-16 September 2024
 venue:
 location:
 paperurl:
 ---
 
-*<font size=4>Advisors:</font> [<font size=4>Yanxin Li</font>](https://person.zju.edu.cn/en/EElyx)<font size=4>, Micro and Special Motor Institute, College of Electrical Engineering, Zhejiang University</font>*   
+*<font size=4>Advisors:</font> [<font size=4>Zhaopeng Cui</font>](https://zhpcui.github.io/)<font size=4>, State Key Laboratory of CAD&CG, College of Computer Science, Zhejiang University</font>*   
 
 
 Abstract
