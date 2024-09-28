@@ -12,7 +12,8 @@ redirect_from:
 
 
 
-<p>I am a passionate first-year Master student in Elctrical and Computer Engineering at University of Washington looking for research opportunities. My research interests include Robotics and Computer Vision.</p>
+<p>I am a passionate first-year Master student in Elctrical and Computer Engineering at University of Washington looking for research opportunities. My research interests include Robotics and Computer Vision. Previous to this, I was a research asistant in  [State Key Laboratory of CAD&CG](http://www.cad.zju.edu.cn/english.html) in [College of Computer Science](http://www.en.cs.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn/english/), supervised by Prof. [Zhaopeng Cui](https://zhpcui.github.io/). Previous to this, I was a research asistant in [College of Electrical Engineering](http://ee.zju.edu.cn/englishee/main.htm) at [Zhejiang University](https://www.zju.edu.cn/english/), supervised by Prof. [Yanxin Li](https://person.zju.edu.cn/en/EElyx#).
+</p>
 
 - - -  
 
