@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-<p>I am a passionate new MSEE student @University of Washington looking for research opportunities. My research interests include Computer Vision, Computer Graphics, and Robotics.</p>
+<p>I am a passionate first-year master student in Elctrical and Computer Engineering at University of Washington looking for research opportunities. My research interests include Robotics, Computer Vision, and Computer Graphics.</p>
 
 
 (Page to be furbished) 
