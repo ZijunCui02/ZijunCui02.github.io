@@ -4,7 +4,7 @@ collection: talks
 type: "A research on the design of drive system for BLDCM and drive optimization"
 permalink: /research_projects/2
 venue: "State Key Laboratory of CAD&CG, Zhejiang University"
-date: 2024-04-20
+date: 2024-04-05
 location: "Hangzhou, China"
 ---
 Unity3D VR Game Design — "Infinite Liberty"  
@@ -15,6 +15,7 @@ Unity3D VR Game Design — "Infinite Liberty"
 
 - - -  
 
+<iframe width="560" height="315" src="https://youtu.be/dLDUX4J_KNg?si=VJ-JRpW5KD9kUDRs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Abstract
