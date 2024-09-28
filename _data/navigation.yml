@@ -5,10 +5,10 @@ main:
     url: /publications/
 
   - title: "Research Projects"
-    url: /research projects/    
+    url: /research_projects/    
 
-  - title: "Course Projects"
-    url: /course projects/    
+  - title: "Capstone & Projects"
+    url: /capstone_projects/    
 
 #- title: "Internship Experiences"
 #  url: /internship_experiences/
