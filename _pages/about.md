@@ -12,7 +12,8 @@ redirect_from:
 
 
 
-<p style="text-align: justify; text-justify: inter-ideograph;">  I am a passionate new MSEE student @University of Washington looking for research opportunities. My research interests include Computer Vsion, Computer Graphics, and Robotics.</p>  
+<p>I am a passionate new MSEE student @University of Washington looking for research opportunities. My research interests include Computer Vision, Computer Graphics, and Robotics.</p>
+
 
 (Page to be furbished) 
 
