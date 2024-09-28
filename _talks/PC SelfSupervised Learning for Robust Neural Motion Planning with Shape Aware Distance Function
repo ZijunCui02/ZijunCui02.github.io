@@ -1,8 +1,8 @@
 ---
 title: "Physics-Constrained Self-Supervised Learning for Robust Neural Motion Planning with Shape-Aware Distance Function"
-collection: talks
+collection: research projects
 type: "A research project for route planning using PC-Planner"
-permalink: /research_projects/1
+permalink: /research/project-4
 venue: "State Key Laboratory of CAD&CG, Zhejiang University"
 date: 2024-04-15
 location: "Hangzhou, China"
@@ -17,7 +17,7 @@ location: "Hangzhou, China"
 
 - - -
 
-Research Approach   
+Research Approach  
 ===
 
   
@@ -33,26 +33,25 @@ Research Approach
 Outline of Research
 ===  
 
+![SRTP1](/images/SRTP1.png)  
 
 - - -  
 
 Simulation
 ===  
 
- 
+![SRTP2](/images/SRTP2.png)  
 - - -  
 
 Hardware Experiments
 ===  
 
 
-
+![SRTP3](/images/SRTP3.png)  
 - - -  
 
 Prototype and Results  
 ===  
 
 
-
-
-
+![SRTP4](/images/SRTP4.png)  
