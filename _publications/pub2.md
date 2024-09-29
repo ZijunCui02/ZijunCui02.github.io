@@ -2,7 +2,7 @@
 title: "Physics-Constrained Self-Supervised Learning for Robust Neural Motion Planning with Shape-Aware Distance Function (under revision)"
 type:
 collection: publications
-permalink: /publication/2024-paper-2
+permalink: https://zijuncui02.github.io/research_projects/1
 excerpt: 'Robot neural motion planning'
 venue:
 location:
