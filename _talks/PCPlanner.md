@@ -16,7 +16,8 @@ location: "Hangzhou, China"
 ==  
 
 <p style="text-align: center; font-style: italic;">Overall Work</p>  
-![PC_Planner](/images/PC_Planner.png)
+
+![PC_Planner](/images/PC_Planner.png)  
 
 **Motion Planning (MP)** is a critical challenge in robotics, especially pertinent with the burgeoning interest in embodied artificial intelligence. Traditional MP methods often struggle with high-dimensional complexities. Recently, neural motion planners, particularly physics-informed neural planners based on the Eikonal equation, have been proposed to overcome the curse of dimensionality. However, these methods perform poorly in complex scenarios with shaped robots due to multiple solutions inherent in the Eikonal equation.
 
