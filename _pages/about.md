@@ -25,7 +25,7 @@ I am a passionate first-year Master's student in Electrical and Computer Enginee
 Education
 ======
 * Master of Science, Electrical, College of Electrical and Computer Engineering, [University of Washington](https://www.washington.edu/), September 2024 - July 2026.
-* Bachelor of Engineering, Electrical Engineering and Automation, College of Electrical Engineering, Zhejiang University, July 2024.
+* Bachelor of Engineering, Electrical Engineering and Automation, College of Electrical Engineering, Zhejiang University, September 2023 - July 2024.
   
 - - -  
 
