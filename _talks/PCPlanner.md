@@ -12,7 +12,7 @@ location: "Hangzhou, China"
 *April, 2024 - September, 2024.*  
 
 - - -  
-*Preview*
+*Preview*  
 ==  
 
 <p style="text-align: center; font-style: italic;">Overall Work</p>  
@@ -48,7 +48,7 @@ Experiments in diverse scenarios with different robots demonstrate the superiori
   
 - - -  
 
-Results
+*Results*
 ===  
 - <p style = "text-align:justify; text-justify:inter-ideograph;"> Contributed to the development of a novel physics-constrained planner that learns the time fields and execute motion planning for robots of various shapes from any start state to any goal state in a self-supervised manner.</p>
 
