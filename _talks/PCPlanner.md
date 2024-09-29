@@ -13,6 +13,13 @@ location: "Hangzhou, China"
 
 - - -  
 
+Overall Work
+![PC_Planner](/images/PC_Planner.png)  
+
+
+Preventing the converge to local minimum 
+![Local_min](/images/Local_min.png)
+
 Abstract
 ===  
 
@@ -21,3 +28,11 @@ Abstract
 - <p style = "text-align:justify; text-justify:inter-ideograph;"> Assisted in creating a neural shape-aware distance field for collision checking, accurately predicting the minimum distance to the environment for robots with arbitrary shapes and configurations, thereby enhancing both self-supervised training and testing phases.</p>  
   
 - - -  
+
+Results
+===  
+- <p style = "text-align:justify; text-justify:inter-ideograph;"> Contributed to the development of a novel physics-constrained planner that learns the time fields and execute motion planning for robots of various shapes from any start state to any goal state in a self-supervised manner.</p>
+
+
+
+
