@@ -21,7 +21,7 @@ location: "Hangzhou, China"
 
 To address these issues, this work presents **PC-Planner**, a novel physics-constrained self-supervised learning framework for robot motion planning with various shapes in complex environments. To this end, we propose several physical constraints, including monotonic and optimal constraints, to stabilize the training process of the neural network with the Eikonal equation. Additionally, we introduce a novel **shape-aware distance field** that considers the robot's shape for efficient collision checking, addressing the computational intensity and facilitating adaptive motion planning at test time.
 
-Experiments in diverse scenarios with different robots demonstrate the superiority of the proposed method in efficiency and robustness for robot motion planning, particularly in complex environments.
+Experiments in diverse scenarios with different robots demonstrate the superiority of the proposed method in efficiency and robustness for robot motion planning, particularly in **complex environments**.
 
 <p style="text-align: center; font-style: italic;">Preventing the converge to local minimum</p>  
 
@@ -29,9 +29,11 @@ Experiments in diverse scenarios with different robots demonstrate the superiori
 ![Local_min](/images/Local_min.png)
 *Our Achievements*
 
-We introduce a novel physics-constrained self-supervised learning approach for physics-informed neural robot motion planning, which enables efficient and robust motion planning for robots with various shapes in complex scenarios.
-We propose two physical constraints to enable the network to jump out of local minima and converge to the correct solutions that obey the physical rules.
-We develop a new neural shape-aware distance field for collision checking that can predict the minimum distance to the environment for any robot with arbitrary shapes and configurations in the fixed environment, which facilitates both self-supervised training and test stages.
+- We introduce a novel physics-constrained self-supervised learning approach for physics-informed neural robot motion planning, which enables efficient and robust motion planning for robots with various shapes in complex scenarios.
+- We propose two physical constraints to enable the network to jump out of local minima and converge to the correct solutions that obey the physical rules.
+- We develop a new neural shape-aware distance field for collision checking that can predict the minimum distance to the environment for any robot with arbitrary shapes and configurations in the fixed environment, which facilitates both self-supervised training and test stages.
+
+
 
 Abstract
 ===  
