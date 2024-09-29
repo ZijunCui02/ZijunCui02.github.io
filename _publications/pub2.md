@@ -4,14 +4,13 @@ type:
 collection: publications
 permalink: /publication/2024-paper-2
 excerpt: 'Robot neural motion planning'
-date: 15 September 2024
+date: under revision
 venue:
 location:
 paperurl:
 ---
 
 *<font size=4>Advisors:</font> [<font size=4>Zhaopeng Cui</font>](https://zhpcui.github.io/)<font size=4>, State Key Laboratory of CAD&CG, College of Computer Science, Zhejiang University</font>*   
-
 
 Abstract
 ===  
