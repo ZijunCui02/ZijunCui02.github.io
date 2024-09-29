@@ -14,9 +14,6 @@ location: "Hangzhou, China"
 - - -  
 
 <p style="text-align: center; font-style: italic;">Overall Work</p>  
-
-![PC_Planner](/images/PC_Planner.png)  
-
 **Motion Planning (MP)** is a critical challenge in robotics, especially pertinent with the burgeoning interest in embodied artificial intelligence. Traditional MP methods often struggle with high-dimensional complexities. Recently, neural motion planners, particularly physics-informed neural planners based on the Eikonal equation, have been proposed to overcome the curse of dimensionality. However, these methods perform poorly in complex scenarios with shaped robots due to multiple solutions inherent in the Eikonal equation.
 
 To address these issues, this work presents **PC-Planner**, a novel physics-constrained self-supervised learning framework for robot motion planning with various shapes in complex environments. To this end, we propose several physical constraints, including monotonic and optimal constraints, to stabilize the training process of the neural network with the Eikonal equation. Additionally, we introduce a novel **shape-aware distance field** that considers the robot's shape for efficient collision checking, addressing the computational intensity and facilitating adaptive motion planning at test time.
@@ -24,8 +21,6 @@ To address these issues, this work presents **PC-Planner**, a novel physics-cons
 Experiments in diverse scenarios with different robots demonstrate the superiority of the proposed method in efficiency and robustness for robot motion planning, particularly in **complex environments**.
 
 <p style="text-align: center; font-style: italic;">Preventing the converge to local minimum</p>  
-
-*Preventing the converge to local minimum*
 ![Local_min](/images/Local_min.png)
 *Our Achievements*
 
@@ -35,12 +30,17 @@ Experiments in diverse scenarios with different robots demonstrate the superiori
 
 
 
-Abstract
-===  
 
-- <p style = "text-align:justify; text-justify:inter-ideograph;"> Contributed to the development of a novel physics-constrained planner that learns the time fields and execute motion planning for robots of various shapes from any start state to any goal state in a self-supervised manner.</p>
-- <p style = "text-align:justify; text-justify:inter-ideograph;"> Implemented several physical constraints to enable the neural network to overcome local minima and converge on solutions that adhere to physical laws.</p>
-- <p style = "text-align:justify; text-justify:inter-ideograph;"> Assisted in creating a neural shape-aware distance field for collision checking, accurately predicting the minimum distance to the environment for robots with arbitrary shapes and configurations, thereby enhancing both self-supervised training and testing phases.</p>  
+
+
+
+
+
+
+
+
+
+     
   
 - - -  
 
