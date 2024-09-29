@@ -4,7 +4,6 @@ type:
 collection: publications
 permalink: /publication/2024-paper-2
 excerpt: 'Robot neural motion planning'
-date: under revision
 venue:
 location:
 paperurl:
