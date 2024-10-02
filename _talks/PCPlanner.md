@@ -43,14 +43,26 @@ Experiments in diverse scenarios with different robots demonstrate the superiori
 ==  
 ![PC_SADF](/images/PC_SADF.png)
 
+
+*Shape-Aware Distance Fields*
+==  
+
+
+
+  
 2 inovations:  
 - PC   --> minia --> complex shape
 - SADF --> bvh --> prevent collision  
   
 - - -  
 
-*Results*
+*Experiments*
 ===  
+
+<img width="837" alt="Screenshot 2024-10-02 at 2 17 52 PM" src="https://github.com/user-attachments/assets/bb0f8b86-1690-4a44-807b-d75305176a73">
+
+
+
 - <p style = "text-align:justify; text-justify:inter-ideograph;"> Contributed to the development of a novel physics-constrained planner that learns the time fields and execute motion planning for robots of various shapes from any start state to any goal state in a self-supervised manner.</p>
 
 
