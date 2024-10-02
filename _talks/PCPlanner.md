@@ -38,11 +38,14 @@ Experiments in diverse scenarios with different robots demonstrate the superiori
 - We develop a new neural shape-aware distance field(SADF) for collision checking that can predict the minimum distance to the environment for any robot with arbitrary shapes and configurations in the fixed environment, which facilitates both self-supervised training and test stages.
 
 
-
-*Physical Constraints*
+*The PC-Planner integrates a physics-constrained self-supervised learning framework with a shape-aware distance field.*
 ==  
 ![PC_SADF](/images/PC_SADF.png)
 
+
+
+*Physical Constraints*
+==  
 
 *Shape-Aware Distance Fields*
 ==  
