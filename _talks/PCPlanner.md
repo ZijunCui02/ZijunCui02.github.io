@@ -59,11 +59,14 @@ Experiments in diverse scenarios with different robots demonstrate the superiori
 *Experiments*
 ===  
 
+<p style="text-align: center; font-style: italic;">Comparison of motion planning in 3D for grid robots. The optimal results are highlighted.</p>  
+
+
 <img width="837" alt="Screenshot 2024-10-02 at 2 17 52 PM" src="https://github.com/user-attachments/assets/bb0f8b86-1690-4a44-807b-d75305176a73">
 
+We analyze and validate our method with different robots and environments. We compare our methods(with and without adaptive planning) with the baselines NTFields [Ni and Qureshi 2023a], P-NTFields [Ni and Qureshi 2023b], FMM [Sethian 1996], RRT [Kingston et al. 2018], RRT-Connect [Kuffner and LaValle 2000], and LazyPRM [Bohlin and Kavraki 2000]. Our evaluation metrics include path length, planning time, success rate (SR) and challenging success rate(CSR). For additional information on the experimental settings, including metrics description, baseline details, and experimental specifics, please refer to our supplementary material.
 
 
-- <p style = "text-align:justify; text-justify:inter-ideograph;"> Contributed to the development of a novel physics-constrained planner that learns the time fields and execute motion planning for robots of various shapes from any start state to any goal state in a self-supervised manner.</p>
 
 
 
