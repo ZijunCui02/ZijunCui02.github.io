@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-I am a first-year Master's student in Electrical and Computer Engineering at University of Washington seeking for research opportunities. My research interests include Computer Vision and Robotics. Before UW, I was a research assistant in [State Key Laboratory of CAD&CG](http://www.cad.zju.edu.cn/english.html) in [College of Computer Science](http://www.en.cs.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn/english/), supervised by Prof. [Zhaopeng Cui](https://zhpcui.github.io/). Prior to that, I was a research assistant in [College of Electrical Engineering](http://ee.zju.edu.cn/englishee/main.htm) at [Zhejiang University](https://www.zju.edu.cn/english/), under the supervision of Prof. [Yanxin Li](https://person.zju.edu.cn/en/EElyx#).
+**I am a first-year Master's student in Electrical and Computer Engineering at University of Washington seeking for research opportunities. My research interests include Computer Vision and Robotics. Before UW, I was a research assistant in [State Key Laboratory of CAD&CG](http://www.cad.zju.edu.cn/english.html) in [College of Computer Science](http://www.en.cs.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn/english/), supervised by Prof. [Zhaopeng Cui](https://zhpcui.github.io/). Prior to that, I was a research assistant in [College of Electrical Engineering](http://ee.zju.edu.cn/englishee/main.htm) at [Zhejiang University](https://www.zju.edu.cn/english/), under the supervision of Prof. [Yanxin Li](https://person.zju.edu.cn/en/EElyx#).**
 
  
 - - -  
@@ -24,8 +24,8 @@ I am a first-year Master's student in Electrical and Computer Engineering at Uni
 
 Education
 ======
-* Master of Science, Electrical, College of Electrical and Computer Engineering, [University of Washington](https://www.washington.edu/), September 2024 - July 2026.
-* Bachelor of Engineering, Electrical Engineering and Automation, College of Electrical Engineering, [Zhejiang University](https://www.zju.edu.cn/english/), September 2023 - July 2024.
+* **Master of Science, Electrical, College of Electrical and Computer Engineering, [University of Washington](https://www.washington.edu/), September 2024 - July 2026.**
+* **Bachelor of Engineering, Electrical Engineering and Automation, College of Electrical Engineering, [Zhejiang University](https://www.zju.edu.cn/english/), September 2023 - July 2024.**
   
 - - -  
 
@@ -101,6 +101,6 @@ Contact Me:
 
 ***Email:*** *[zijuncui@uw.edu](mailto:zijuncui@uw.edu/)*  
 &emsp;&emsp;&emsp; *[zijun@zju.edu.cn](mailto:zijun@zju.edu.cn/)*  
-***Phone:*** *(206)734-1505* 
+***Phone:*** *+1(206)734-1505* 
 
 - - -  
