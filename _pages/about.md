@@ -32,9 +32,9 @@ Education
 Publications
 ======  
 
-[Physics-Constrained Self-Supervised Learning for Robust Neural Motion Planning with Shape-Aware Distance Function (under revision)](https://zijuncui02.github.io/2024-paper-2)
+ - [<font size=4><b>Physics-Constrained Self-Supervised Learning for Robust Neural Motion Planning with Shape-Aware Distance Function (under revision)</b></font>](https://zijuncui02.github.io/2024-paper-2)
 
-[Influence of Split Teeth on the Performance of Linear Permanent Magnet Vernier Motor](https://zijuncui02.github.io/publication/2023-6-28-paper-1)
+- [<font size=4><b>Influence of Split Teeth on the Performance of Linear Permanent Magnet Vernier Motor</b></font>](https://zijuncui02.github.io/publication/2023-6-28-paper-1)
 
 - - -  
 
