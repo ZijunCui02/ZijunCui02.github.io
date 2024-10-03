@@ -84,11 +84,7 @@ Skills
 
 <blockquote>
 	  <b>Language Proficiency:</b><br>
-	  TOEFL 104<br>
-	  Reading 29<br>
-	  Listening 27<br>
-	  Speaking 25<br>
-	  Writing 23<br>
+	  TOEFL 104 with Reading 29, Listening 27, Speaking 25 and Writing 23<br>
 </blockquote>
 
 - - -  
