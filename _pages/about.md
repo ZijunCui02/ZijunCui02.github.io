@@ -57,10 +57,6 @@ Internship Experiences
 ======  
  - [<font size=4><b>Shanghai Sany Electronic Technology Co., Ltd, R&D Engineer</b></font>](https://zijuncui02.github.io/internship_experiences/)
 
-<blockquote>
-	Participated in the design and prototype of the power management circuit and played a key role in developing an electric mining protection system.
-</blockquote>  
-
 - - -  
 
 Awards & Honors
