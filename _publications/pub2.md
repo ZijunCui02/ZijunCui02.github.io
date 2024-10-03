@@ -25,7 +25,7 @@ To address these issues, this work presents **PC-Planner**, a novel physics-cons
 
 Experiments in diverse scenarios with different robots demonstrate the superiority of the proposed method in efficiency and robustness for robot motion planning, particularly in **complex environments**.
 
-<p style="text-align: center; font-style: italic;">Preventing the converge to local minimum</p>  
+<p style="text-align: center; font-style: italic;">Preventing the converge to local minimum.</p>  
 
 ![Local_min](/images/Local_min.png)
 
@@ -33,25 +33,22 @@ Experiments in diverse scenarios with different robots demonstrate the superiori
 ==  
 
 - We introduce a novel physics-constrained self-supervised learning approach for physics-informed neural robot motion planning, which enables efficient and robust motion planning for robots with various shapes in complex scenarios.
-- We propose two physical constraints(PCs) to enable the network to jump out of local minima and converge to the correct solutions that obey the physical rules.
+- We propose two physical constraints to enable the network to jump out of local minima and converge to the correct solutions that obey the physical rules.
 - We develop a new neural shape-aware distance field(SADF) for collision checking that can predict the minimum distance to the environment for any robot with arbitrary shapes and configurations in the fixed environment, which facilitates both self-supervised training and test stages.
 
 
+<p style="text-align: center; font-style: italic;">The PC-Planner integrates a physics-constrained self-supervised learning framework with a shape-aware distance field.</p>  
 
-*Physical Constraints*
-==  
-![PC_SADF](/images/PC_SADF.png)
+![PC_SADF](/images/PC_SADF.png)  
 
-2 inovations:  
-- PC   --> minia --> complex shape
-- SADF --> bvh --> prevent collision  
-  
-- - -  
 
-*Results*
+*Experiments*
 ===  
-- <p style = "text-align:justify; text-justify:inter-ideograph;"> Contributed to the development of a novel physics-constrained planner that learns the time fields and execute motion planning for robots of various shapes from any start state to any goal state in a self-supervised manner.</p>
+
+<p style="text-align: center; font-style: italic;">Comparison of motion planning in 3D for grid robots. The optimal results are highlighted.</p>  
 
 
+<img width="837" alt="Screenshot 2024-10-02 at 2 17 52 PM" src="https://github.com/user-attachments/assets/bb0f8b86-1690-4a44-807b-d75305176a73">
 
-
+We analyze and validate our method with different robots and environments. We compare our methods(with and without adaptive planning) with the baselines NTFields [Ni and Qureshi 2023a], P-NTFields [Ni and Qureshi 2023b], FMM [Sethian 1996], RRT [Kingston et al. 2018], RRT-Connect [Kuffner and LaValle 2000], and LazyPRM [Bohlin and Kavraki 2000]. Our evaluation metrics include path length, planning time, success rate (SR) and challenging success rate(CSR).  
+We perform a comparative analysis of our method against the baselines in two complex 3D Gibson environments (Arona and Eastville) [Xia et al. 2018] in SE(2) and SE(3) space with rigid robots. In those two Gibson environments, we employ different robots. In one scenario, we deploy a mobile robot, a bear, and a bird for navigation within the environment. In the other scenario, we showcase the use of a piano, a toy car, and a drone to plan in the environment. Specifically, the mobile robot, bear, piano, and toy car navigate in SE(2) space with 3 Degrees of Freedom (DoFs) while the bird and drone plan in SE(3) space with 6 DoFs. In the Arona environment, our proposed method demonstrates **the best SR, CSR, and path length** with competitive computation time. It is worth mentioning that without adaptive planning, our method achieves **minimal computation time** and **the best or second-best SR, CSR, and path length** in most tasks. Moreover, our method is more efficient compared to traditional methods, ranging from at least **40 times to as much as 200 times faster** than traditional methods, indicating an affordable time cost of our adaptive strategy. This highlights the effectiveness and superiority of our proposed method.
