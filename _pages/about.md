@@ -62,10 +62,10 @@ Internship Experiences
 Awards & Honors
 ===
 
-- Academic Excellent Award, at Zhejiang University, Oct. 2021
-- Excellent Student Cadre, at Zhejiang University, Jun. 2021
-- Excellent Student Leadership Award, at Zhejiang University, Oct. 2022
-- Student Leadership Award, at Zhejiang University, Jun. 2022
+- **Academic Excellent Award, at Zhejiang University, Oct. 2021**
+- **Excellent Student Cadre, at Zhejiang University, Jun. 2021**
+- **Excellent Student Leadership Award, at Zhejiang University, Oct. 2022**
+- **Student Leadership Award, at Zhejiang University, Jun. 2022**
 
 - - -  
 
@@ -92,15 +92,15 @@ Skills
 
 Join Me on My Journey
 ===  
-<p style = "text-align:justify; text-justify:inter-ideograph;">As I look forward to starting my graduate studies, I invite you to explore this website to learn more about my projects, research interests, and academic achievements. I want you to know that your insights, advice, and opportunities for collaboration are always welcome.   </p>  
+<p style = "text-align:justify; text-justify:inter-ideograph;">As I look forward to starting my graduate studies, I invite you to explore this website to learn more about my projects, research interests, and academic achievements. I want you to know that your insights, advice, and opportunities for collaboration are always welcome.</p>  
 
 - - -  
 
 Contact Me:
 === 
 
-***Email:*** *[zijuncui@uw.edu](mailto:zijuncui@uw.edu/)*  
-&emsp;&emsp;&emsp; *[zijun@zju.edu.cn](mailto:zijun@zju.edu.cn/)*  
-***Phone:*** *+1(206)734-1505* 
+***Email:*** **[zijuncui@uw.edu](mailto:zijuncui@uw.edu/)**  
+&emsp;&emsp;&emsp; **[zijun@zju.edu.cn](mailto:zijun@zju.edu.cn/)**  
+***Phone:*** **+1(206)734-1505** 
 
 - - -  
