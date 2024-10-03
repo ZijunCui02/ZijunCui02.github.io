@@ -38,23 +38,18 @@ Publications
 
 - - -  
 
-Research Projects
+Academic Experiences
 ======  
 
- - [<font size=4><b>PC-Planner: Physics-Constrained Self-Supervised Learning for Robust Neural Motion Planning with Shape-Aware Distance Function</b></font>](https://zijuncui02.github.io/research_projects/1)@ State Key Laboratory of CAD&CG, Zhejiang University, Hangzhou, China
+ - [<font size=4><b>PC-Planner: Physics-Constrained Self-Supervised Learning for Robust Neural Motion Planning with Shape-Aware Distance Function</b></font>](https://zijuncui02.github.io/research_projects/1) @ State Key Laboratory of CAD&CG, Zhejiang University
 
- - [<font size=4><b>PC-Planner: Physics-Constrained Self-Supervised Learning for Robust Neural Motion Planning with Shape-Aware Distance Function</b></font>](https://zijuncui02.github.io/research_projects/1)
-Unity3D VR Game Design — Infinite Liberty
-@ College of Computer Science and Technology Zhejiang University, Hangzhou, China
+ - [<font size=4><b>Unity3D VR Game Design — Infinite Liberty</b></font>](https://zijuncui02.github.io/research_projects/2) @ College of Computer Science, Zhejiang University
 
-Influence of Split Teeth on the Performance of Linear Permanent Magnet Vernier Motor
-@ Aerospace, Robotics, Micro and Special Motor Research Institute, Zhejiang University, Hangzhou, China
+- [<font size=4><b>Influence of Split Teeth on the Performance of Linear Permanent Magnet Vernier Motor</b></font>](https://zijuncui02.github.io/research_projects/3) @ Aerospace, Robotics, Micro and Special Motor Research Institute, Zhejiang University
 
-Drive System Design and Drive Optimization for the Brushless DC Motor (BLDCM)
-@ Electrical Machines and Drive Techniques Research Institute, Zhejiang University, Hangzhou, China
+- [<font size=4><b>Thrust Force Ripple Reduction Techniques for Linear Permanent Magnet Synchronous Machine (LPMSM)</b></font>](https://zijuncui02.github.io/research_projects/5) @ Aerospace, Robotics, Micro and Special Motor Research Institute, Zhejiang University
 
-Thrust Force Ripple Reduction Techniques for Linear Permanent Magnet Synchronous Machine (LPMSM)
-@ Aerospace, Robotics, Micro and Special Motor Research Institute, Zhejiang University, Hangzhou, China
+- [<font size=4><b>Drive System Design and Drive Optimization for the Brushless DC Motor (BLDCM)</b></font>](https://zijuncui02.github.io/research_projects/4) @ Electrical Machines and Drive Techniques Research Institute, Zhejiang University
 
 - - -  
 
