@@ -41,28 +41,20 @@ Publications
 Research Projects
 ======  
 
-PC-Planner: Physics-Constrained Self-Supervised Learning for Robust Neural Motion Planning with Shape-Aware Distance Function
- April 10, 2024
-A research on the design of drive system for BLDCM and drive optimization at State Key Laboratory of CAD&CG, Zhejiang University, Hangzhou, China
+ - [<font size=4><b>PC-Planner: Physics-Constrained Self-Supervised Learning for Robust Neural Motion Planning with Shape-Aware Distance Function</b></font>](https://zijuncui02.github.io/research_projects/1)@ State Key Laboratory of CAD&CG, Zhejiang University, Hangzhou, China
 
+ - [<font size=4><b>PC-Planner: Physics-Constrained Self-Supervised Learning for Robust Neural Motion Planning with Shape-Aware Distance Function</b></font>](https://zijuncui02.github.io/research_projects/1)
 Unity3D VR Game Design — Infinite Liberty
- April 05, 2024
-A research on the design of drive system for BLDCM and drive optimization at College of Computer Science Zhejiang University, Hangzhou, China
-
-
+@ College of Computer Science and Technology Zhejiang University, Hangzhou, China
 
 Influence of Split Teeth on the Performance of Linear Permanent Magnet Vernier Motor
- June 28, 2023
-A research on the performance improvement of novel linear permanent magnet machines (LPMMs) at Aerospace, Robotics, Micro and Special Motor Research Institute, Zhejiang University, Hangzhou, China
+@ Aerospace, Robotics, Micro and Special Motor Research Institute, Zhejiang University, Hangzhou, China
 
 Drive System Design and Drive Optimization for the Brushless DC Motor (BLDCM)
- August 12, 2023
-A research on the design of drive system for BLDCM and drive optimization at Electrical Machines and Drive Techniques Research Institute, Zhejiang University, Hangzhou, China
+@ Electrical Machines and Drive Techniques Research Institute, Zhejiang University, Hangzhou, China
 
 Thrust Force Ripple Reduction Techniques for Linear Permanent Magnet Synchronous Machine (LPMSM)
- November 15, 2023
-A research on thrust force ripple reduction techniques for the LPMM/LPMSM at Aerospace, Robotics, Micro and Special Motor Research Institute, Zhejiang University, Hangzhou, China
-
+@ Aerospace, Robotics, Micro and Special Motor Research Institute, Zhejiang University, Hangzhou, China
 
 - - -  
 
