@@ -19,7 +19,7 @@ redirect_from:
 
 {% include base_path %}
 
-<div style="display:true">CV======[<b>Download CV</b>](http://ZijunCui02.github.io/files/ZIJUNCUI.pdf)</div>
+<div style="display:true">[<b>Download CV</b>](http://ZijunCui02.github.io/files/ZIJUNCUI.pdf)</div>
 
 
 Education
