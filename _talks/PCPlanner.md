@@ -34,7 +34,7 @@ Experiments in diverse scenarios with different robots demonstrate the superiori
 ==  
 
 - We introduce a novel physics-constrained self-supervised learning approach for physics-informed neural robot motion planning, which enables efficient and robust motion planning for robots with various shapes in complex scenarios.
-- We propose two physical constraints(PCs) to enable the network to jump out of local minima and converge to the correct solutions that obey the physical rules.
+- We propose two physical constraints to enable the network to jump out of local minima and converge to the correct solutions that obey the physical rules.
 - We develop a new neural shape-aware distance field(SADF) for collision checking that can predict the minimum distance to the environment for any robot with arbitrary shapes and configurations in the fixed environment, which facilitates both self-supervised training and test stages.
 
 
@@ -44,19 +44,6 @@ Experiments in diverse scenarios with different robots demonstrate the superiori
 
 
 
-*Physical Constraints*
-==  
-
-*Shape-Aware Distance Fields*
-==  
-
-
-
-  
-2 inovations:  
-- PC   --> minia --> complex shape
-- SADF --> bvh --> prevent collision  
-  
 - - -  
 
 *Experiments*
