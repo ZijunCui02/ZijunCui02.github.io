@@ -79,7 +79,7 @@ Skills
 
 <blockquote>
 	  <b>Applications:</b><br>
-	  VS Code, Unity, MATLAB, CLion; Quartus II, Cadence OrCAD, JMAG, Ansys Maxwell, Multisim;
+	  Unity, MATLAB, CLion; Quartus II, Cadence OrCAD, JMAG, Ansys Maxwell, Multisim;
 </blockquote>
 
 <blockquote>
