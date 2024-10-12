@@ -1,5 +1,5 @@
 ---
-title: "Signal Generator & FPGA-based Digital Frequency Meter, Team Leader"
+title: "Signal Generator & FPGA-based Digital Frequency Meter"
 collection: teaching
 type: "A Electrical Engineering Intern Project"
 permalink: /capstone_projects/proj-2
