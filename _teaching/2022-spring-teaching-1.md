@@ -1,5 +1,5 @@
 ---
-title: "Audio Amplifier Design, Team Leader"
+title: "Audio Amplifier Design"
 collection: teaching
 type: "An Analog Electronics Research Project"
 permalink: /capstone_projects/proj-1
