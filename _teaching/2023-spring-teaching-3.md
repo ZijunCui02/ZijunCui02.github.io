@@ -1,5 +1,5 @@
 ---
-title: "Multi-function Digital Clock Based on Microcomputer, Team Leader"
+title: "Multi-function Digital Clock Based on Microcomputer"
 collection: teaching
 type: "A Microcomputer & DSP Intern Project"
 permalink: /capstone_project/proj-3
