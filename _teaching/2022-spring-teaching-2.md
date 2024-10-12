@@ -17,3 +17,4 @@ location: "Hangzhou, China"
 - <font size =4>Designed a FPGA-based digital frequency meter, simulated it in Quartus, and validated the functionality with signal generator;</font>
 - <font size =4>Optimized the circuit topology and circuit parameters through simulations in OrCAD;</font>
 - <font size =4>Designed PCB layout and prototyped versatile signal generator; performed comprehensive tests for performance and robustness.</font>
+
