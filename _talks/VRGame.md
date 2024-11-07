@@ -1,7 +1,7 @@
 ---
 title: "Unity3D VR Game Design — Infinite Liberty"
 collection: talks
-type: "A research on the design of drive system for BLDCM and drive optimization"
+type: "Unity 3D game design"
 permalink: /research_projects/2
 venue: "College of Computer Science Zhejiang University"
 date: 2024-04-05
