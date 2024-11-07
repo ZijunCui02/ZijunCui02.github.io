@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to My Academic Portfolio!"
+title: "Zijun Cui"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
