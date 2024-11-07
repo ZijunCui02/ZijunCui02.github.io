@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zijun Cui"
+title: "Harry Zijun Cui"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
