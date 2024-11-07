@@ -72,12 +72,13 @@ Skills
 
 <blockquote>
 	  <b>Programming Languages:</b><br>
-	  Python, C, Java, C++;
+	  Proficient: Python;<br>
+	Familiar:C, C++, Java, JavaScript;
 </blockquote>
 
 <blockquote>
 	  <b>Applications:</b><br>
-	  Unity, MATLAB, CLion; Quartus II, Cadence OrCAD, JMAG, Ansys Maxwell, Multisim;
+	   MATLAB, Unity, CLion; Quartus II, Cadence OrCAD, JMAG, Ansys Maxwell;
 </blockquote>
 
 <blockquote>
