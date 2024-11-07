@@ -73,7 +73,7 @@ Skills
 <blockquote>
 	  <b>Programming Languages:</b><br>
 	  Proficient: Python;<br>
-	Familiar:C, C++, Java, JavaScript;
+	Familiar: C, C++, Java, JavaScript;
 </blockquote>
 
 <blockquote>
