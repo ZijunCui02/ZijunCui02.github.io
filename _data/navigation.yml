@@ -13,8 +13,8 @@ main:
 #- title: "Internship Experiences"
 #  url: /internship_experiences/
 
-#  - title: "Awards"
-#   url: /awards_honors/
+  - title: "Calendar"
+    url: /calendar/
     
   - title: "Leadership & Activities"
     url: /leadership_activities/
