@@ -1,6 +1,6 @@
 ---
 permalink: /calendar/
-title: "Calanedar"
+title: "Calendar"
 author_profile: true
 redirect_from: 
   - /md/
