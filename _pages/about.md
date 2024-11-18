@@ -20,7 +20,7 @@ redirect_from:
 [<b>Preview CV</b>](http://ZijunCui02.github.io/files/ZIJUNCUI.pdf)  
 
 
-Book a meeting from [<b>Calendar<b>](https://zijuncui02.github.io/calendar/)
+Book a meeting from [<b>Calendar</b>](https://zijuncui02.github.io/calendar/)
 
 Education
 ======
