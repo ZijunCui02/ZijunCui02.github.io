@@ -1,7 +1,7 @@
 ---
 permalink: /calendar/
 title: "Calanedar"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
