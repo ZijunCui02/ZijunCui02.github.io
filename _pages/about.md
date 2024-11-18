@@ -17,8 +17,10 @@ redirect_from:
 
 {% include base_path %}
 
-[<b>Preview CV</b>](http://ZijunCui02.github.io/files/ZIJUNCUI.pdf)
+[<b>Preview CV</b>](http://ZijunCui02.github.io/files/ZIJUNCUI.pdf)  
 
+
+Book a meeting from [<b>Calendar<b>](https://zijuncui02.github.io/calendar/)
 
 Education
 ======
