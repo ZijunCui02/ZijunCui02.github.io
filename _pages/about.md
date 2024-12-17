@@ -10,7 +10,7 @@ redirect_from:
 
 - - -  
   
-**I am a first-year Master's student in Electrical and Computer Engineering at University of Washington seeking research opportunities. My research interests include Robotics and Brain Computer Interface. Before UW, I was a research assistant at [State Key Laboratory of CAD&CG](http://www.cad.zju.edu.cn/english.html) in [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn/english/), supervised by Prof. [Zhaopeng Cui](https://zhpcui.github.io/). Prior to that, I was a research assistant in [College of Electrical Engineering](http://ee.zju.edu.cn/englishee/main.htm) at [Zhejiang University](https://www.zju.edu.cn/english/), under the supervision of Prof. [Yanxin Li](https://person.zju.edu.cn/en/EElyx#).**
+**I am a first-year Master's student in Electrical and Computer Engineering at University of Washington seeking research opportunities. My research interests include Neural Networks, Robotics and Neural Engineering. Before UW, I was a research assistant at [State Key Laboratory of CAD&CG](http://www.cad.zju.edu.cn/english.html) in [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn/english/), supervised by Prof. [Zhaopeng Cui](https://zhpcui.github.io/). Prior to that, I was a research assistant in [College of Electrical Engineering](http://ee.zju.edu.cn/englishee/main.htm) at [Zhejiang University](https://www.zju.edu.cn/english/), under the supervision of Prof. [Yanxin Li](https://person.zju.edu.cn/en/EElyx#).**
 
  
 - - -  
